@@ -1,6 +1,6 @@
-******************** Revolution Transaction Report ********************
+******************** Transaction Report ********************
 
-Revolution Transaction Report
+Transaction Report
 For Store:  CUSTOMER STORE
 Printed on: 04/06/2020 11:07
 Printed by: Axeda
