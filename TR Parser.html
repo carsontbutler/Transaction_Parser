@@ -1,0 +1,592 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+
+    <title>TR Parser</title>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+</head> 
+  
+<body>
+<div class="container text-center mt-5"> 
+    <div class="pd-5">
+        <h3 class="mb-4">Transaction Report Parser</h3>
+        <input type="file" class="form-control-file bg-light" name="inputfile"
+                id="inputfile">
+        <button onclick="showText()" class="btn btn-primary">Show Results</button>
+        <button class="btn btn-secondary" onClick="window.location.reload()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-counterclockwise" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M8 3a5 5 0 1 1-4.546 2.914.5.5 0 0 0-.908-.417A6 6 0 1 0 8 2v1z"/>
+                <path d="M8 4.466V.534a.25.25 0 0 0-.41-.192L5.23 2.308a.25.25 0 0 0 0 .384l2.36 1.966A.25.25 0 0 0 8 4.466z"/>
+            </svg>
+        </button>
+        
+    </div>
+<!--Refresh message-->
+    <div class="container collapse mt-3" id="reminder">
+        <small>Remember to <a style="text-decoration: underline; cursor:pointer" onClick="window.location.reload()">refresh</a> the page between uses.</small>
+    </div>
+<!--Warnings-->
+<div class="alert alert-danger collapse mt-5" id="warnings">
+</div>
+
+<!--Graphs section-->
+    <div class="row mt-5">
+        <button class="btn btn-outline-primary btn-lg btn-block" type="button" data-bs-toggle="collapse" data-bs-target="#graph-section">Graphs</button>
+            <div class="graphs bg-light collapse" id="graph-section">
+                <canvas id="barChart"></canvas>
+                <canvas id="pieChart"></canvas>
+            </div>
+    </div>
+
+<!--Error summary section-->
+    <div class="results-toggle row">
+        <button class="btn btn-outline-primary btn-lg btn-block" type="button" data-bs-toggle="collapse" data-bs-target="#result-section">Error summary</button>
+            <div class="collapse bg-light" id="result-section">
+                <h5>Total errors</h5>
+                <p id="total-errors"></p>
+                <h5>Most common error</h5>
+                <p id="common-error"><span id="common-error-count"></span></p>
+                <h5>Most recent error</h5>
+                <p id="recent-error"></p>
+            </div>
+    </div>
+
+
+<!--BCR section-->
+    <div class="row">
+        <button class="btn btn-outline-primary btn-lg btn-block" type="button" data-bs-toggle="collapse" data-bs-target="#bcr-section">BCR Errors</button>
+            <div class="graphs bg-light collapse" id="bcr-section">
+            </div>
+    </div>
+
+<!--Primary BNR section-->
+    <div class="row">
+        <button class="btn btn-outline-primary btn-lg btn-block" type="button" data-bs-toggle="collapse" data-bs-target="#primary-section">Primary BNR Errors</button>
+            <div class="graphs bg-light collapse" id="primary-section">
+            </div>
+    </div>
+
+<!--Secondary BNR section-->
+    <div class="row">
+        <button class="btn btn-outline-primary btn-lg btn-block" type="button" data-bs-toggle="collapse" data-bs-target="#secondary-section">Secondary BNR Errors</button>
+            <div class="graphs bg-light collapse" id="secondary-section">
+            </div>
+    </div>
+<!--All Error Section-->
+
+<div class="row">
+        <button class="btn btn-outline-primary btn-lg btn-block" type="button" data-bs-toggle="collapse" data-bs-target="#all-section">All Errors</button>
+            <div class="graphs bg-light collapse" id="all-section">
+</div>
+
+<div class="row mt-3" id="readme">
+<a href="#" data-bs-toggle="collapse" data-bs-target="#read-me-text">&#9432;</a>
+<div class="collapse" id="read-me-text">
+    <p>
+    <small>Updated August 2021</small>
+    <ul>
+        <li>Works best with Chrome</li>
+        <li>Tables will now show dates and timestamps for each error (could use some spot-checking)</li>
+        <li>There are a few rare, unique situations where the Transaction Type might not be accurate (e.g. if an error pops up on its own while the unit was idling, it will refer to the most recent transaction that was done to determine Transaction Type), so be wary of that</li>
+        <li>If you find any problems or have any suggestions email me </li>
+    </ul>
+    </p>
+    </div>
+</div>
+
+    <script type="text/javascript"> 
+        document.getElementById('inputfile') 
+            .addEventListener('change', function() { 
+              
+            var fr=new FileReader(); 
+            fr.onload=function(){ 
+                document.getElementById('output') 
+                        .textContent=fr.result; 
+            } 
+              
+            fr.readAsText(this.files[0]); 
+        }
+        ) 
+    </script>
+    <pre id="output" class="collapse"></pre>
+</div>
+
+<script>
+let counter = 0;
+</script>
+
+<script>
+function showText(){
+    if (counter > 0){
+        alert('Remember to refresh the page between uses');
+    }
+    else{
+    counter++;
+    let tr = document.getElementById('output').innerHTML;
+    let trList = tr.split("\n");
+    document.getElementById('graph-section').classList.remove('collapse');
+    document.getElementById('reminder').classList.remove('collapse');
+
+
+
+//Dates and Timestamps
+    //All ERRORS - dates and timestamps
+    let timestampList = [];
+    for (let i = 0; i < trList.length; i++){
+        if (trList[i].includes('Detail:')){
+            timestampList.push(trList[i-1]);
+        }
+    }
+    let timestamps = [];
+    let dates = [];
+
+    for (let i = 0; i < timestampList.length; i++){
+        dates.push(timestampList[i].split(" ")[1]);
+        timestamps.push(timestampList[i].split(" ")[2].split("[")[0]);
+    }
+
+
+    //BCR ERRORS - dates and timestamps
+    let bcrTimestampList = [];
+    for (let i = 0; i < trList.length; i++){
+        if (trList[i].includes('Detail:') && trList[i-1].includes('(BCR)')){
+            bcrTimestampList.push(trList[i-1]);
+        }
+    }
+    let bcrTimestamps = [];
+    let bcrDates = [];
+    for (let i = 0; i < bcrTimestampList.length; i++){
+        bcrDates.push(bcrTimestampList[i].split(" ")[1]);
+        bcrTimestamps.push(bcrTimestampList[i].split(" ")[2].split("[")[0]);
+    }
+
+    //BNR ERRORS - dates and timestamps
+    let bnrTimestampList = [];
+    for (let i = 0; i < trList.length; i++){
+        if (trList[i].includes('Detail:') && trList[i-1].includes('(BNR)')){
+            bnrTimestampList.push(trList[i-1]);
+        }
+    }
+    let bnrTimestamps = [];
+    let bnrDates = [];
+    for (let i = 0; i < bnrTimestampList.length; i++){
+        bnrDates.push(bnrTimestampList[i].split(" ")[1]);
+        bnrTimestamps.push(bnrTimestampList[i].split(" ")[2].split("[")[0]);
+    }
+
+    //BNR 2 ERRORS - dates and timestamps
+    let bnr2TimestampList = [];
+    for (let i = 0; i < trList.length; i++){
+        if (trList[i].includes('Detail:') && trList[i-1].includes('(BNR 2)')){
+            bnr2TimestampList.push(trList[i-1]);
+        }
+    }
+    let bnr2Timestamps = [];
+    let bnr2Dates = [];
+    for (let i = 0; i < bnr2TimestampList.length; i++){
+        bnr2Dates.push(bnr2TimestampList[i].split(" ")[1]);
+        bnr2Timestamps.push(bnr2TimestampList[i].split(" ")[2].split("[")[0]);
+    }
+
+//parsedList
+    let parsedList = trList.filter(s => 
+        s.includes('Detail:')||
+        s.includes('Dispensed')||
+        s.includes('Accepted')||
+        s.includes('Moved')||
+        s.includes('(BCR)')||
+        s.includes('(BNR)')||
+        s.includes('(BNR 2)'));
+    parsedList = parsedList.filter(s=>
+        !(s.includes('Clear')));
+
+//parsedList with Renamed TR types
+    parsedListRenamed = ['placeholder']     
+    for (i = 0; i < parsedList.length; i++) {
+        if (parsedList[i].includes('Detail:')){
+            parsedListRenamed.push(parsedList[i])
+        }
+        else if (parsedList[i].includes('Dispensed')){
+            parsedListRenamed.push('Outbound')
+        }
+        else if (parsedList[i].includes('Accepted')){
+            parsedListRenamed.push('Inbound')
+        }
+        else if (parsedList[i].includes('Moved')){
+            parsedListRenamed.push('Auto Move / Self Audit')
+        }
+        else (parsedListRenamed.push(parsedList[i]))
+    };
+
+//BCR Errors
+bcrErrorsRaw = []
+bcrErrorTransactions = []
+    for (i = 0; i < parsedListRenamed.length; i++) {
+        if (parsedListRenamed[i].includes('Detail:') && parsedListRenamed[i-1].includes('(BCR)')){
+            bcrErrorsRaw.push(parsedListRenamed[i])
+            if (parsedListRenamed[i-2].includes('Outbound')){
+                bcrErrorTransactions.push(parsedListRenamed[i-2])
+            }
+            else if(parsedListRenamed[i-2].includes('Inbound')){
+                bcrErrorTransactions.push(parsedListRenamed[i-2])
+        }
+            else if(parsedListRenamed[i-2].includes('Auto')){
+                bcrErrorTransactions.push(parsedListRenamed[i-2])
+    }
+            else(bcrErrorTransactions.push('N/A'))
+    }
+};
+
+//Primary Errors
+primaryErrorsRaw = []
+primaryErrorTransactions = []
+    for (i = 0; i < parsedListRenamed.length; i++) {
+        if (parsedListRenamed[i].includes('Detail:') && parsedListRenamed[i-1].includes('(BNR)')){
+            primaryErrorsRaw.push(parsedListRenamed[i])
+            if (parsedListRenamed[i-2].includes('Outbound')){
+                primaryErrorTransactions.push(parsedListRenamed[i-2])
+            }
+            else if(parsedListRenamed[i-2].includes('Inbound')){
+                primaryErrorTransactions.push(parsedListRenamed[i-2])
+        }
+            else if(parsedListRenamed[i-2].includes('Auto')){
+                primaryErrorTransactions.push(parsedListRenamed[i-2])
+    }
+            else(primaryErrorTransactions.push('N/A'))
+    }
+};
+
+//Secondary Errors
+secondaryErrorsRaw = []
+secondaryErrorTransactions = []
+    for (i = 0; i < parsedListRenamed.length; i++) {
+        if (parsedListRenamed[i].includes('Detail:') && parsedListRenamed[i-1].includes('(BNR 2)')){
+            secondaryErrorsRaw.push(parsedListRenamed[i])
+            if (parsedListRenamed[i-2].includes('Outbound')){
+                secondaryErrorTransactions.push(parsedListRenamed[i-2])
+            }
+            else if(parsedListRenamed[i-2].includes('Inbound')){
+                secondaryErrorTransactions.push(parsedListRenamed[i-2])
+        }
+            else if(parsedListRenamed[i-2].includes('Auto')){
+                secondaryErrorTransactions.push(parsedListRenamed[i-2])
+    }
+            else(secondaryErrorTransactions.push('N/A'))
+    }
+};
+
+//Transaction Type for ALL section
+    let errorTypeList = trList.filter(s => 
+                                        s.includes('Detail:')||
+                                        s.includes('Dispensed')||
+                                        s.includes('Accepted')||
+                                        s.includes('Moved'));
+    errorTypeList.unshift('placeholder')
+    let errorTypeFiltered = [];
+    for (i = 0; i < errorTypeList.length; i++) {
+        if (errorTypeList[i].includes('Detail:') && errorTypeList[i-1].includes('Dispensed')){
+            errorTypeFiltered.push('Outbound');
+        } 
+        else if(errorTypeList[i].includes('Detail:') && errorTypeList[i-1].includes('Accepted')){
+            errorTypeFiltered.push('Inbound');
+        }
+        else if(errorTypeList[i].includes('Detail:') && errorTypeList[i-1].includes('Moved')){
+        errorTypeFiltered.push('Auto Move / Self Audit');
+        }
+        else if(errorTypeList[i].includes('Detail:')&& !(errorTypeList[i-1].includes('Dispensed'))
+                                                    && !(errorTypeList[i-1].includes('Accepted'))
+                                                    && !(errorTypeList[i-1].includes('Moved'))){
+                                                        errorTypeFiltered.push('N/A')
+                                                    }
+        };
+
+
+//Arrays
+    let errorList = trList.filter(s => s.includes('Detail:')); 
+    let errorSet = new Set(errorList); 
+    let uniqueErrors = Array.from(errorSet);
+    let labelUniqueErrors = uniqueErrors.map(item => {
+        return item.substring(8);
+    })
+    
+
+    var errorsWithCount = {};
+    errorList.forEach(function(i) { errorsWithCount[i] = (errorsWithCount[i]||0) + 1;}); 
+    errorCounts = Object.values(errorsWithCount); 
+
+//warnings
+    if (errorList.length <= 0){
+        document.getElementById('warnings').innerHTML += "No errors found";
+        document.getElementById('warnings').classList.remove('collapse');
+    };
+    if (errorList.find(a=>a.includes("F631"))){
+        document.getElementById('warnings').innerHTML += "NOTE: This transaction report has an F631. Be sure to check the separator for foreign objects." + "<br>";
+        document.getElementById('warnings').classList.remove('collapse');
+    };
+
+//Error summary section
+    document.getElementById('total-errors').innerHTML = errorList.length; 
+    document.getElementById('recent-error').innerHTML = errorList[errorList.length - 1].substring(8); 
+
+    //Mode
+    function getMode(numbers) {
+        let counted = numbers.reduce((acc, curr) => { 
+            if (curr in acc) {
+                acc[curr]++;
+            } else {
+                acc[curr] = 1;
+            }
+    
+            return acc;
+        }, {});
+    
+        let mode = Object.keys(counted).reduce((a, b) => counted[a] > counted[b] ? a : b);
+    
+        return mode.substring(8);
+    };
+
+    
+    document.getElementById('common-error').innerHTML = getMode(errorList); //show error list
+
+//BAR GRAPH: Error Counts
+    var ctx = document.getElementById('barChart').getContext('2d');
+    var chart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: labelUniqueErrors,
+        datasets: [{
+            label: 'Errors by Count',
+            backgroundColor: 'rgb(25, 60, 235,0.5)',
+            borderColor: 'rgb(255, 99, 132)',
+            data: errorCounts
+        }]
+    },
+    options: {
+        scales:{
+            yAxes:[{
+                ticks:{
+                    min: 0
+                }
+            }]
+        },
+        title: {
+            display: true,
+            text: 'Error Count'
+          }
+    }
+})
+
+//Error counts by device
+    let primaryErrorCount = trList.filter(s => s.includes('(BNR)') && s.includes('DeviceError')); 
+    let secondaryErrorCount = trList.filter(s => s.includes('(BNR 2)') && s.includes('DeviceError')); 
+    let bcrErrorCount = trList.filter(s => s.includes('(BCR)') && s.includes('DeviceError')); 
+   
+
+//Pie chart: errors by device
+new Chart(document.getElementById("pieChart"), {
+    type: 'pie',
+    data: {
+      labels: ["Primary BNR", "Secondary BNR","BCR"],
+      datasets: [{
+        label: "Errors by Device",
+        backgroundColor: ["#3e95cd", "#8e5ea2","#3cba9f","#e8c3b9","#c45850"],
+        data: [primaryErrorCount.length, secondaryErrorCount.length, bcrErrorCount.length]
+      }]
+    },
+    options: {
+      title: {
+        display: true,
+        text: 'Errors by Device'
+      }
+    }
+});
+
+//Errors with Device Type
+let errorsWithDevice = trList.filter(s => s.includes('Detail:') || s.includes('DeviceError'));
+
+//Create array of device types for each error
+deviceTypeList = []
+for (i = 0; i < trList.length; i++){
+    if (trList[i].includes('Detail:')){
+        deviceTypeList.push(trList[i-1]);
+    }
+}
+
+for (i = 0; i < deviceTypeList.length; i++){
+    if (deviceTypeList[i].includes('(BCR)')){
+        deviceTypeList[i] = 'BCR';
+    }
+    else if (deviceTypeList[i].includes('(BNR)')){
+        deviceTypeList[i] = 'Primary BNR'
+    }
+    else if (deviceTypeList[i].includes('(BNR 2)')){
+        deviceTypeList[i] = 'Secondary BNR'
+    }
+}
+
+//BCR ERRORS TABLE
+    var perrow = 1, 
+    table = document.createElement("table")
+    rowHead = table.insertRow();
+    var dateHeader = rowHead.insertCell();
+    dateHeader.innerHTML = 'Date';
+    var timeHeader = rowHead.insertCell();
+    timeHeader.innerHTML = 'Time';
+    var errorHeader = rowHead.insertCell();
+    errorHeader.innerHTML = 'Error';
+    var transactionHeader = rowHead.insertCell();
+    transactionHeader.innerHTML = 'Transaction Type';
+    row = table.insertRow();
+
+    for (var i = 0; i < bcrErrorsRaw.length; i++) {
+    var cell1 = row.insertCell();
+    cell1.innerHTML = bcrDates[i];
+    var cell2 = row.insertCell();
+    cell2.innerHTML = bcrTimestamps[i];
+    var cell3 = row.insertCell();
+    cell3.innerHTML = bcrErrorsRaw[i].substring(8);
+    var cell4 = row.insertCell();
+    cell4.innerHTML = bcrErrorTransactions[i];
+
+    var next = i + 1;
+    if (next%perrow==0 && next!=bcrErrorsRaw.length) {
+    row = table.insertRow();
+        }
+    }
+    document.getElementById("bcr-section").appendChild(table);
+
+//PRIMARY ERRORS TABLE
+    var perrow = 1, 
+    table = document.createElement("table")
+    rowHead = table.insertRow();
+    var dateHeader = rowHead.insertCell();
+    dateHeader.innerHTML = 'Date';
+    var timeHeader = rowHead.insertCell();
+    timeHeader.innerHTML = 'Time';
+    var errorHeader = rowHead.insertCell();
+    errorHeader.innerHTML = 'Error';
+    var transactionHeader = rowHead.insertCell();
+    transactionHeader.innerHTML = 'Transaction Type';
+    row = table.insertRow();
+
+    for (var i = 0; i < primaryErrorsRaw.length; i++) {
+    var cell1 = row.insertCell();
+    cell1.innerHTML = bnrDates[i];
+    var cell2 = row.insertCell();
+    cell2.innerHTML = bnrTimestamps[i];
+    var cell3 = row.insertCell();
+    cell3.innerHTML = primaryErrorsRaw[i].substring(8);
+    var cell4 = row.insertCell();
+    cell4.innerHTML = primaryErrorTransactions[i];
+
+    var next = i + 1;
+    if (next%perrow==0 && next!=primaryErrorsRaw.length) {
+    row = table.insertRow();
+        }
+    }
+    document.getElementById("primary-section").appendChild(table);
+
+//SECONDARY ERRORS TABLE
+    var perrow = 1, 
+    table = document.createElement("table")
+    rowHead = table.insertRow();
+    var dateHeader = rowHead.insertCell();
+    dateHeader.innerHTML = 'Date';
+    var timeHeader = rowHead.insertCell();
+    timeHeader.innerHTML = 'Time';
+    var errorHeader = rowHead.insertCell();
+    errorHeader.innerHTML = 'Error';
+    var transactionHeader = rowHead.insertCell();
+    transactionHeader.innerHTML = 'Transaction Type';
+    row = table.insertRow();
+
+    for (var i = 0; i < secondaryErrorsRaw.length; i++) {
+    var cell1 = row.insertCell();
+    cell1.innerHTML = bnr2Dates[i];
+    var cell2 = row.insertCell();
+    cell2.innerHTML = bnr2Timestamps[i];
+    var cell3 = row.insertCell();
+    cell3.innerHTML = secondaryErrorsRaw[i].substring(8);
+    var cell4 = row.insertCell();
+    cell4.innerHTML = secondaryErrorTransactions[i];
+
+    var next = i + 1;
+    if (next%perrow==0 && next!=secondaryErrorsRaw.length) {
+    row = table.insertRow();
+        }
+    }
+    document.getElementById("secondary-section").appendChild(table);
+
+//ALL ERRORS TABLE
+
+        var perrow = 1, 
+        table = document.createElement("table")
+        rowHead = table.insertRow();
+        var dateHeader = rowHead.insertCell();
+        dateHeader.innerHTML = 'Date';
+        var timeHeader = rowHead.insertCell();
+        timeHeader.innerHTML = 'Time';
+        var errorHeader = rowHead.insertCell();
+        errorHeader.innerHTML = 'Error';
+        var deviceHeader = rowHead.insertCell();
+        deviceHeader.innerHTML = 'Device';
+        var transactionHeader = rowHead.insertCell();
+        transactionHeader.innerHTML = 'Transaction Type';
+        row = table.insertRow();
+
+    for (var i = 0; i < errorList.length; i++) {
+        var cell1 = row.insertCell();
+        cell1.innerHTML = dates[i];
+        var cell2 = row.insertCell();
+        cell2.innerHTML = timestamps[i];
+        var cell3 = row.insertCell();
+        cell3.innerHTML = errorList[i].substring(8);
+        var cell4 = row.insertCell();
+        cell4.innerHTML = deviceTypeList[i];
+        var cell5 = row.insertCell();
+        cell5.innerHTML = errorTypeFiltered[i];
+      
+      var next = i + 1;
+      if (next%perrow==0 && next!=errorList.length) {
+        row = table.insertRow();
+      }
+    }
+    document.getElementById("all-section").appendChild(table);
+    }
+};
+
+
+</script>
+<style>
+
+table{
+    margin: auto;
+    text-align: left;
+}
+td{
+    border: 1px solid black;
+    padding: 1em;
+}
+ul{
+    list-style-position: inside;
+}
+#read-me-text{
+    width: 65%;
+    margin: auto;
+}
+#read-me-text li{
+    font-size: .8em;
+}
+#readme a{
+    color: blue;
+    text-decoration: none;
+}
+
+
+</style>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+</body> 
+  
+</html> 

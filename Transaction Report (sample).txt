@@ -1,0 +1,3360 @@
+******************** Revolution Transaction Report ********************
+
+Revolution Transaction Report
+For Store:  CUSTOMER STORE
+Printed on: 04/06/2020 11:07
+Printed by: Axeda
+
+from Accounting Period:  Mon (04/06/2020 21:00)
+to Accounting Period:    Mon (04/06/2020 21:00)
+
+1034933 04/05/2020 21:00:02[200405 210002] BA-02146 StartDay  (7.02)
+1034945 04/05/2020 21:10:00[200405 210002] BA-02146 "JOHN SMITH" |SCO| "#19 - BNR SCO" *RG61226-01* VirtualTillCheckout 
+           0.01 * 121  USD (Coin)
+           0.05 * 33   USD (Coin)
+           0.10 * 63   USD (Coin)
+           0.25 * 53   USD (Coin)
+           1.00 * 15   USD (Note)
+           5.00 * 57   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 59   USD (Note)
+          50.00 * 4    USD (Note)
+         100.00 * 7    USD (Note)
+      $ 2522.41 TOTAL USD
+  Provisional Credit: No
+1034947 04/05/2020 21:10:05[200405 210002] BA-02146 "JOHN SMITH" |SCO| "#20 - BNR SCO" *RG61227-01* VirtualTillCheckout 
+           0.01 * 289  USD (Coin)
+           0.05 * 78   USD (Coin)
+           0.10 * 144  USD (Coin)
+           0.25 * 155  USD (Coin)
+           1.00 * 4    USD (Note)
+           5.00 * 65   USD (Note)
+          10.00 * 7    USD (Note)
+          20.00 * 56   USD (Note)
+          50.00 * 7    USD (Note)
+         100.00 * 11   USD (Note)
+      $ 3028.94 TOTAL USD
+  Provisional Credit: No
+1034949 04/05/2020 21:10:12[200405 210002] BA-02146 "JOHN SMITH" |SCO| "#21 - BNR SCO" *RG61228-01* VirtualTillCheckout 
+           0.01 * 46   USD (Coin)
+           0.05 * 33   USD (Coin)
+           0.10 * 58   USD (Coin)
+           0.25 * 44   USD (Coin)
+           1.00 * 25   USD (Note)
+           5.00 * 68   USD (Note)
+          10.00 * 7    USD (Note)
+          20.00 * 64   USD (Note)
+          50.00 * 4    USD (Note)
+         100.00 * 13   USD (Note)
+      $ 3233.91 TOTAL USD
+  Provisional Credit: No
+1034951 04/05/2020 21:10:34[200405 210002] BA-02146 "JOHN SMITH" |SCO| "#22 - BNR SCO" *RG61229-01* VirtualTillCheckout 
+           0.01 * 194  USD (Coin)
+           0.05 * 61   USD (Coin)
+           0.10 * 115  USD (Coin)
+           0.25 * 112  USD (Coin)
+           1.00 * 41   USD (Note)
+           5.00 * 44   USD (Note)
+          10.00 * 4    USD (Note)
+          20.00 * 34   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 9    USD (Note)
+      $ 2325.49 TOTAL USD
+  Provisional Credit: No
+1034953 04/05/2020 21:10:43[200405 210002] BA-02146 "JOHN SMITH" |SCO| "#23 - BNR SCO" *RG61230-01* VirtualTillCheckout 
+           0.01 * 202  USD (Coin)
+           0.05 * 67   USD (Coin)
+           0.10 * 123  USD (Coin)
+           0.25 * 115  USD (Coin)
+           1.00 * 76   USD (Note)
+           5.00 * 90   USD (Note)
+          10.00 * 8    USD (Note)
+          20.00 * 87   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 19   USD (Note)
+      $ 4692.42 TOTAL USD
+  Provisional Credit: No
+1034955 04/05/2020 21:11:03[200405 210002] BA-02146 "JOHN SMITH" |SCO| "#25 - BNR SCO" *RG61232-01* VirtualTillCheckout 
+           0.01 * 262  USD (Coin)
+           0.05 * 78   USD (Coin)
+           0.10 * 150  USD (Coin)
+           0.25 * 125  USD (Coin)
+           1.00 * 72   USD (Note)
+           5.00 * 62   USD (Note)
+          10.00 * 27   USD (Note)
+          20.00 * 36   USD (Note)
+          50.00 * 3    USD (Note)
+         100.00 * 4    USD (Note)
+      $ 1974.77 TOTAL USD
+  Provisional Credit: No
+1034957 04/05/2020 21:11:09[200405 210002] BA-02146 "JOHN SMITH" |SCO| "#26 - BNR SCO" *RG61233-01* VirtualTillCheckout 
+           0.01 * 191  USD (Coin)
+           0.05 * 69   USD (Coin)
+           0.10 * 133  USD (Coin)
+           0.25 * 129  USD (Coin)
+           1.00 * 88   USD (Note)
+           5.00 * 66   USD (Note)
+          10.00 * 24   USD (Note)
+          20.00 * 63   USD (Note)
+          50.00 * 2    USD (Note)
+         100.00 * 5    USD (Note)
+      $ 2568.91 TOTAL USD
+  Provisional Credit: No
+1034971 04/05/2020 21:26:43[200405 210002] BA-02146 "JOHN SMITH" |SCO| "#37 - BNR SCO" *RG61244-01* VirtualTillCheckout 
+           0.01 * 229  USD (Coin)
+           0.05 * 62   USD (Coin)
+           0.10 * 129  USD (Coin)
+           0.25 * 122  USD (Coin)
+           1.00 * 37   USD (Note)
+           5.00 * 20   USD (Note)
+          10.00 * 2    USD (Note)
+          20.00 * 45   USD (Note)
+          50.00 * 2    USD (Note)
+         100.00 * 6    USD (Note)
+      $ 1805.79 TOTAL USD
+  Provisional Credit: No
+1034973 04/05/2020 21:26:49[200405 210002] BA-02146 "JOHN SMITH" |SCO| "#38 - BNR SCO" *RG61245-01* VirtualTillCheckout 
+           0.01 * 263  USD (Coin)
+           0.05 * 68   USD (Coin)
+           0.10 * 133  USD (Coin)
+           0.25 * 96   USD (Coin)
+           1.00 * 106  USD (Note)
+           5.00 * 49   USD (Note)
+          10.00 * 2    USD (Note)
+          20.00 * 99   USD (Note)
+          50.00 * 7    USD (Note)
+         100.00 * 21   USD (Note)
+      $ 4844.33 TOTAL USD
+  Provisional Credit: No
+1034975 04/05/2020 21:26:55[200405 210002] BA-02146 "John Smith" |SCO| "#39 - BNR SCO" *RG61246-01* VirtualTillCheckout 
+           0.01 * 451  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 83   USD (Coin)
+           0.25 * 63   USD (Coin)
+           1.00 * 1    USD (Coin)
+           1.00 * 64   USD (Note)
+           5.00 * 68   USD (Note)
+          10.00 * 16   USD (Note)
+          20.00 * 42   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 26   USD (Note)
+      $ 4435.56 TOTAL USD
+  Provisional Credit: No
+1034977 04/05/2020 21:27:02[200405 210002] BA-02146 "John Smith" |SCO| "#43 - BNR SCO" *RG61109-01* VirtualTillCheckout 
+           0.01 * 284  USD (Coin)
+           0.05 * 78   USD (Coin)
+           0.10 * 137  USD (Coin)
+           0.25 * 128  USD (Coin)
+           1.00 * 49   USD (Note)
+           5.00 * 70   USD (Note)
+          10.00 * 9    USD (Note)
+          20.00 * 71   USD (Note)
+          50.00 * 19   USD (Note)
+         100.00 * 50   USD (Note)
+      $ 7911.44 TOTAL USD
+  Provisional Credit: No
+1034979 04/05/2020 21:27:07[200405 210002] BA-02146 "John Smith" |SCO| "#44 - BNR SCO" *RG61110-01* VirtualTillCheckout 
+           0.01 * 335  USD (Coin)
+           0.05 * 80   USD (Coin)
+           0.10 * 150  USD (Coin)
+           0.25 * 160  USD (Coin)
+           1.00 * 62   USD (Note)
+           5.00 * 60   USD (Note)
+          10.00 * 1    USD (Note)
+          20.00 * 81   USD (Note)
+          50.00 * 13   USD (Note)
+         100.00 * 33   USD (Note)
+      $ 6004.35 TOTAL USD
+  Provisional Credit: No
+1034981 04/05/2020 21:27:13[200405 210002] BA-02146 "John Smith" |SCO| "#45 - BNR SCO" *RG61111-01* VirtualTillCheckout 
+           0.01 * 225  USD (Coin)
+           0.05 * 66   USD (Coin)
+           0.10 * 125  USD (Coin)
+           0.25 * 120  USD (Coin)
+           1.00 * 81   USD (Note)
+           5.00 * 55   USD (Note)
+          10.00 * 11   USD (Note)
+          20.00 * 84   USD (Note)
+          50.00 * 12   USD (Note)
+         100.00 * 34   USD (Note)
+      $ 6194.05 TOTAL USD
+  Provisional Credit: No
+1034983 04/05/2020 21:27:19[200405 210002] BA-02146 "John Smith" |SCO| "#46 - BNR SCO" *RG61112-01* VirtualTillCheckout 
+           0.01 * 226  USD (Coin)
+           0.05 * 67   USD (Coin)
+           0.10 * 136  USD (Coin)
+           0.25 * 142  USD (Coin)
+           1.00 * 57   USD (Note)
+           5.00 * 124  USD (Note)
+          10.00 * 5    USD (Note)
+          20.00 * 47   USD (Note)
+          50.00 * 14   USD (Note)
+         100.00 * 34   USD (Note)
+      $ 5821.71 TOTAL USD
+  Provisional Credit: No
+1034985 04/05/2020 21:27:28[200405 210002] BA-02146 "John Smith" |SCO| "#47 - BNR SCO" *RG61169-01* VirtualTillCheckout 
+           0.01 * 134  USD (Coin)
+           0.05 * 34   USD (Coin)
+           0.10 * 66   USD (Coin)
+           0.25 * 51   USD (Coin)
+           1.00 * 105  USD (Note)
+           5.00 * 64   USD (Note)
+          10.00 * 5    USD (Note)
+          20.00 * 44   USD (Note)
+          50.00 * 4    USD (Note)
+         100.00 * 21   USD (Note)
+      $ 3677.39 TOTAL USD
+  Provisional Credit: No
+1034987 04/05/2020 21:27:46[200405 210002] BA-02146 "John Smith" |SCO| "#48 - BNR SCO" *RG61168-01* VirtualTillCheckout 
+           0.01 * 252  USD (Coin)
+           0.05 * 50   USD (Coin)
+           0.10 * 88   USD (Coin)
+           0.25 * 65   USD (Coin)
+           1.00 * 94   USD (Note)
+           5.00 * 87   USD (Note)
+          10.00 * 8    USD (Note)
+          20.00 * 90   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 41   USD (Note)
+      $ 6939.07 TOTAL USD
+  Provisional Credit: No
+1034989 04/05/2020 21:27:53[200405 210002] BA-02146 "John Smith" |SCO| "#49 - BNR SCO" *RG61182-01* VirtualTillCheckout 
+           0.01 * 222  USD (Coin)
+           0.05 * 62   USD (Coin)
+           0.10 * 133  USD (Coin)
+           0.25 * 165  USD (Coin)
+           1.00 * 36   USD (Note)
+           5.00 * 78   USD (Note)
+          10.00 * 5    USD (Note)
+          20.00 * 86   USD (Note)
+          50.00 * 7    USD (Note)
+         100.00 * 35   USD (Note)
+      $ 6105.87 TOTAL USD
+  Provisional Credit: No
+1034991 04/05/2020 21:27:59[200405 210002] BA-02146 "John Smith" |SCO| "#50 - BNR SCO" *RG61183-01* VirtualTillCheckout 
+           0.01 * 268  USD (Coin)
+           0.05 * 72   USD (Coin)
+           0.10 * 136  USD (Coin)
+           0.25 * 125  USD (Coin)
+           1.00 * 51   USD (Note)
+           5.00 * 79   USD (Note)
+          10.00 * 7    USD (Note)
+          20.00 * 68   USD (Note)
+          50.00 * 5    USD (Note)
+         100.00 * 25   USD (Note)
+      $ 4677.13 TOTAL USD
+  Provisional Credit: No
+1034993 04/05/2020 21:28:10[200405 210002] BA-02146 "John Smith" |SCO| "#51 - BNR SCO" *RG61247-01* VirtualTillCheckout 
+           0.01 * 325  USD (Coin)
+           0.05 * 84   USD (Coin)
+           0.10 * 155  USD (Coin)
+           0.25 * 127  USD (Coin)
+           1.00 * 50   USD (Note)
+           5.00 * 78   USD (Note)
+          10.00 * 6    USD (Note)
+          20.00 * 88   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 10   USD (Note)
+      $ 3714.70 TOTAL USD
+  Provisional Credit: No
+1035002 04/05/2020 21:45:30[200405 210002] BA-02146 "John Smith" |SCO| "#36 - BNR SCO" *RG61243-01* VirtualTillCheckout 
+           0.01 * 229  USD (Coin)
+           0.05 * 65   USD (Coin)
+           0.10 * 122  USD (Coin)
+           0.25 * 102  USD (Coin)
+           1.00 * 56   USD (Note)
+           5.00 * 48   USD (Note)
+          10.00 * 1    USD (Note)
+          20.00 * 57   USD (Note)
+          50.00 * 10   USD (Note)
+         100.00 * 35   USD (Note)
+      $ 5489.24 TOTAL USD
+  Provisional Credit: No
+1035004 04/05/2020 21:45:36[200405 210002] BA-02146 "John Smith" |SCO| "#35 - BNR SCO" *RG61242-01* VirtualTillCheckout 
+           0.01 * 220  USD (Coin)
+           0.05 * 65   USD (Coin)
+           0.10 * 121  USD (Coin)
+           0.25 * 113  USD (Coin)
+           1.00 * 71   USD (Note)
+           5.00 * 84   USD (Note)
+          10.00 * 26   USD (Note)
+          20.00 * 77   USD (Note)
+          50.00 * 18   USD (Note)
+         100.00 * 35   USD (Note)
+      $ 6736.80 TOTAL USD
+  Provisional Credit: No
+1035006 04/05/2020 21:45:42[200405 210002] BA-02146 "John Smith" |SCO| "#33 - BNR SCO" *RG61240-01* VirtualTillCheckout 
+           0.01 * 203  USD (Coin)
+           0.05 * 61   USD (Coin)
+           0.10 * 122  USD (Coin)
+           0.25 * 97   USD (Coin)
+           1.00 * 39   USD (Note)
+           5.00 * 41   USD (Note)
+          10.00 * 2    USD (Note)
+          20.00 * 103  USD (Note)
+          50.00 * 12   USD (Note)
+         100.00 * 39   USD (Note)
+      $ 6865.53 TOTAL USD
+  Provisional Credit: No
+1035008 04/05/2020 21:45:47[200405 210002] BA-02146 "John Smith" |SCO| "#32 - BNR SCO" *RG61239-01* VirtualTillCheckout 
+           0.01 * 249  USD (Coin)
+           0.05 * 67   USD (Coin)
+           0.10 * 134  USD (Coin)
+           0.25 * 131  USD (Coin)
+           1.00 * 67   USD (Note)
+           5.00 * 65   USD (Note)
+          10.00 * 27   USD (Note)
+          20.00 * 117  USD (Note)
+          50.00 * 21   USD (Note)
+         100.00 * 39   USD (Note)
+      $ 8003.99 TOTAL USD
+  Provisional Credit: No
+1035018 04/05/2020 22:06:57[200405 210002] BA-02146 "John Smith" |Front End| "#06 - FRNT" *TL125* TillCheckout 
+       ElapsedTime : 00:00:10
+      $  612.50 TOTAL USD - OUT
+1035021 04/05/2020 22:07:33[200405 210002] BA-02146 "John Smith" |Front End| "#06 - FRNT" *TL125* (BNR) CashDispensed [See #1035018] 
+           5.00 * 65   USD (Note)
+          20.00 * 4    USD (Note)
+      $  405.00 TOTAL USD
+1035022 04/05/2020 22:07:58[200405 210002] BA-02146 "John Smith" |Front End| "#06 - FRNT" *TL125* (BCR) CashDispensed [See #1035018] 
+           0.01 * 200  USD (Coin)
+           0.05 * 76   USD (Coin)
+           0.10 * 137  USD (Coin)
+           0.25 * 100  USD (Coin)
+      $   44.50 TOTAL USD
+1035025 04/05/2020 22:08:11[200405 210002] BA-02146 "John Smith" |Front End| "#06 - FRNT" *TL125* (BNR 2) CashDispensed [See #1035018] 
+           1.00 * 163  USD (Note)
+      $  163.00 TOTAL USD
+1035026 04/05/2020 22:08:32[200405 210002] BA-02146 "John Smith" |Front End| "#04 - FRNT" *TL122* TillCheckout 
+       ElapsedTime : 00:00:14
+      $  436.80 TOTAL USD - OUT
+1035029 04/05/2020 22:09:08[200405 210002] BA-02146 "John Smith" |Front End| "#04 - FRNT" *TL122* (BNR) CashDispensed [See #1035026] 
+           5.00 * 43   USD (Note)
+      $  215.00 TOTAL USD
+1035030 04/05/2020 22:09:31[200405 210002] BA-02146 "John Smith" |Front End| "#04 - FRNT" *TL122* (BCR) CashDispensed [See #1035026] 
+           0.01 * 175  USD (Coin)
+           0.05 * 49   USD (Coin)
+           0.10 * 86   USD (Coin)
+           0.25 * 100  USD (Coin)
+      $   37.80 TOTAL USD
+1035033 04/05/2020 22:09:42[200405 210002] BA-02146 "John Smith" |Front End| "#04 - FRNT" *TL122* (BNR 2) CashDispensed [See #1035026] 
+           1.00 * 104  USD (Note)
+          20.00 * 4    USD (Note)
+      $  184.00 TOTAL USD
+1035035 04/05/2020 22:10:28[200405 210002] BA-02146 "John Smith" |Front End| "#02 - FRNT" *TL127* TillCheckout 
+       ElapsedTime : 00:00:31
+      $  447.11 TOTAL USD - OUT
+1035037 04/05/2020 22:11:02[200405 210002] BA-02146 "John Smith" |Front End| "#02 - FRNT" *TL127* (BNR) CashDispensed [See #1035035] 
+           5.00 * 47   USD (Note)
+          20.00 * 4    USD (Note)
+      $  315.00 TOTAL USD
+1035038 04/05/2020 22:11:09[200405 210002] BA-02146 "John Smith" |Front End| "#02 - FRNT" *TL127* (BNR 2) CashDispensed [See #1035035] 
+           1.00 * 93   USD (Note)
+      $   93.00 TOTAL USD
+1035039 04/05/2020 22:11:30[200405 210002] BA-02146 "John Smith" |Front End| "#02 - FRNT" *TL127* (BCR) CashDispensed [See #1035035] 
+           0.01 * 181  USD (Coin)
+           0.05 * 56   USD (Coin)
+           0.10 * 95   USD (Coin)
+           0.25 * 100  USD (Coin)
+      $   39.11 TOTAL USD
+1035043 04/05/2020 22:12:22[200405 210002] BA-02146 "John Smith" |SCO| "#34 - BNR SCO" *RG61241-01* VirtualTillCheckout 
+           0.01 * 299  USD (Coin)
+           0.05 * 80   USD (Coin)
+           0.10 * 150  USD (Coin)
+           0.25 * 160  USD (Coin)
+           1.00 * 69   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 76   USD (Note)
+          10.00 * 1    USD (Note)
+          20.00 * 139  USD (Note)
+          50.00 * 12   USD (Note)
+         100.00 * 53   USD (Note)
+      $ 9202.99 TOTAL USD
+  Provisional Credit: No
+1035047 04/05/2020 23:57:16[200405 210002] BA-02146 "7271 FREDERICK OST" |SCO| "#30 - BNR SCO" *RG61237-01* VirtualTillCheckout 
+           0.01 * 274  USD (Coin)
+           0.05 * 70   USD (Coin)
+           0.10 * 143  USD (Coin)
+           0.25 * 142  USD (Coin)
+           1.00 * 80   USD (Note)
+           5.00 * 85   USD (Note)
+          10.00 * 26   USD (Note)
+          20.00 * 134  USD (Note)
+          50.00 * 9    USD (Note)
+         100.00 * 52   USD (Note)
+      $ 9151.04 TOTAL USD
+  Provisional Credit: No
+1035049 04/05/2020 23:57:21[200405 210002] BA-02146 "7271 FREDERICK OST" |SCO| "#27 - BNR SCO" *RG61234-01* VirtualTillCheckout 
+           0.01 * 210  USD (Coin)
+           0.05 * 62   USD (Coin)
+           0.10 * 130  USD (Coin)
+           0.25 * 114  USD (Coin)
+           1.00 * 112  USD (Note)
+           5.00 * 37   USD (Note)
+          20.00 * 83   USD (Note)
+          50.00 * 10   USD (Note)
+         100.00 * 34   USD (Note)
+      $ 5903.70 TOTAL USD
+  Provisional Credit: No
+1035051 04/05/2020 23:57:26[200405 210002] BA-02146 "7271 FREDERICK OST" |SCO| "#28 - BNR SCO" *RG61235-01* VirtualTillCheckout 
+           0.01 * 120  USD (Coin)
+           0.05 * 44   USD (Coin)
+           0.10 * 58   USD (Coin)
+           0.25 * 43   USD (Coin)
+           1.00 * 13   USD (Note)
+           5.00 * 39   USD (Note)
+          20.00 * 75   USD (Note)
+          50.00 * 10   USD (Note)
+         100.00 * 58   USD (Note)
+      $ 8027.95 TOTAL USD
+  Provisional Credit: No
+1035053 04/05/2020 23:57:31[200405 210002] BA-02146 "7271 FREDERICK OST" |SCO| "#29 - BNR SCO" *RG61236-01* VirtualTillCheckout 
+           0.01 * 133  USD (Coin)
+           0.05 * 51   USD (Coin)
+           0.10 * 104  USD (Coin)
+           0.25 * 81   USD (Coin)
+           1.00 * 48   USD (Note)
+           5.00 * 56   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 125  USD (Note)
+          50.00 * 6    USD (Note)
+         100.00 * 32   USD (Note)
+      $ 6482.53 TOTAL USD
+  Provisional Credit: No
+1035055 04/05/2020 23:57:36[200405 210002] BA-02146 "7271 FREDERICK OST" |SCO| "#31 - BNR SCO" *RG61238-01* VirtualTillCheckout 
+           0.01 * 293  USD (Coin)
+           0.05 * 78   USD (Coin)
+           0.10 * 148  USD (Coin)
+           0.25 * 155  USD (Coin)
+           1.00 * 2    USD (Coin)
+           1.00 * 52   USD (Note)
+           5.00 * 75   USD (Note)
+          10.00 * 34   USD (Note)
+          20.00 * 120  USD (Note)
+          50.00 * 15   USD (Note)
+         100.00 * 59   USD (Note)
+      $ 9879.38 TOTAL USD
+  Provisional Credit: No
+1035080 04/06/2020 04:00:06[200405 210002] BA-02146 RebootRequest  Nightly
+1035081 04/06/2020 04:01:45[200405 210002] BA-02146 ProgramStart ((7.02.4.0))
+1035082 04/06/2020 05:13:34[200405 210002] BA-02146 "Jane Doe" Logon 
+1035083 04/06/2020 05:13:40[200405 210002] BA-02146 "Jane Doe" Door StorageVault OpenRequest 
+1035084 04/06/2020 05:13:49[200405 210002] BA-02146 "Jane Doe" Door StorageVault Opened 
+1035085 04/06/2020 05:14:05[200405 210002] BA-02146 "Jane Doe" Door StorageVault Closed 
+1035086 04/06/2020 05:15:21[200405 210002] BA-02146 "Jane Doe" Logout 
+1035087 04/06/2020 06:14:50[200405 210002] BA-02146 "4115 ANGELA BEC" Logon 
+1035088 04/06/2020 06:15:11[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#94 - SDSK" *TL132* TillCheckout 
+       ElapsedTime : 00:00:19
+      $  730.07 TOTAL USD - OUT
+1035089 04/06/2020 06:15:13[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Door Closed 
+1035090 04/06/2020 06:15:15[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Drawer Opened 
+1035091 04/06/2020 06:15:23[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#94 - SDSK" *TL132* (BNR 2) CashDispensed [See #1035088] 
+1035092 04/06/2020 06:15:25[200405 210002] BA-02146 "4115 ANGELA BEC" (BNR 2) [See #1035088] BNR DeviceError
+	Detail:[0000F631]Note didn't reach sensor BVIN in time (test)
+	Location:eModule_TransportBeforeBV
+	General:Notes remaining on transport
+1035093 04/06/2020 06:15:58[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#94 - SDSK" *TL132* (BCR) CashDispensed [See #1035088] 
+           0.01 * 147  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 66   USD (Coin)
+           0.25 * 100  USD (Coin)
+      $   35.07 TOTAL USD
+1035094 04/06/2020 06:16:06[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#94 - SDSK" *TL132* (BNR) CashDispensed [See #1035088] 
+           5.00 * 87   USD (Note)
+          20.00 * 13   USD (Note)
+      $  695.00 TOTAL USD
+1035095 04/06/2020 06:16:22[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Door Opened 
+1035096 04/06/2020 06:16:23[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Drawer Closed 
+1035097 04/06/2020 06:17:46[200405 210002] BA-02146 "4115 ANGELA BEC" Logout 
+1035098 04/06/2020 06:17:52[200405 210002] BA-02146 "Jane Doe" Logon 
+1035099 04/06/2020 06:18:17[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035100 04/06/2020 06:18:23[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Unlocked 
+1035101 04/06/2020 06:18:29[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035102 04/06/2020 06:18:31[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035103 04/06/2020 06:21:03[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035104 04/06/2020 06:21:04[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Locked 
+1035105 04/06/2020 06:21:29[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashDispensed [See #1035106] 
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD
+1035106 04/06/2020 06:21:30[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+      $  400.00 TOTAL USD - OUT
+1035107 04/06/2020 06:21:37[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors 
+1035108 04/06/2020 06:21:38[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[00004009]Access point 9 is open.
+	Location:eModule_TransportBeforeBV
+	General:Device is Open
+1035109 04/06/2020 06:21:46[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035110 04/06/2020 06:21:56[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035111 04/06/2020 06:21:58[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035112 04/06/2020 06:22:09[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035113 04/06/2020 06:22:11[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Locked 
+1035114 04/06/2020 06:23:23[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors  Media Presented
+1035115 04/06/2020 06:23:58[200405 210002] BA-02146 "Jane Doe" VaultDrop 
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD BagID BG 090539
+1035116 04/06/2020 06:24:01[200405 210002] BA-02146 "Jane Doe" ServiceCashOut 
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD
+1035117 04/06/2020 06:24:19[200405 210002] BA-02146 "Jane Doe" Logout 
+1035118 04/06/2020 06:24:39[200405 210002] BA-02146 "Jane Doe" Logon 
+1035119 04/06/2020 06:25:01[200405 210002] BA-02146 "Jane Doe" |SDSK| "#94 - SDSK" *TL132* AdvanceCash 
+       ElapsedTime : 00:00:17
+      $   50.00 TOTAL USD - OUT
+1035120 04/06/2020 06:25:32[200405 210002] BA-02146 "Jane Doe" |SDSK| "#94 - SDSK" *TL132* (BNR 2) CashDispensed [See #1035119] 
+           1.00 * 50   USD (Note)
+      $   50.00 TOTAL USD
+1035121 04/06/2020 06:25:51[200405 210002] BA-02146 "Jane Doe" Logout 
+1035122 04/06/2020 06:26:24[200405 210002] BA-02146 "4115 ANGELA BEC" Logon 
+1035123 04/06/2020 06:26:31[200405 210002] BA-02146 "4115 ANGELA BEC" Logout 
+1035124 04/06/2020 06:26:38[200405 210002] BA-02146 "4115 ANGELA BEC" Logon 
+1035125 04/06/2020 06:26:56[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#93 - SDSK" *TL124* TillCheckout 
+       ElapsedTime : 00:00:16
+      $ 3087.92 TOTAL USD - OUT
+1035126 04/06/2020 06:26:58[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Door Closed 
+1035127 04/06/2020 06:27:00[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Drawer Opened 
+1035128 04/06/2020 06:27:56[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#93 - SDSK" *TL124* (BCR) CashDispensed [See #1035125] 
+           0.01 * 172  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 72   USD (Coin)
+           0.25 * 100  USD (Coin)
+      $   35.92 TOTAL USD
+1035129 04/06/2020 06:28:02[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Door Opened 
+1035130 04/06/2020 06:28:03[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Drawer Closed 
+1035131 04/06/2020 06:28:36[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#93 - SDSK" *TL124* (BNR) CashDispensed [See #1035125] 
+           5.00 * 104  USD (Note)
+          20.00 * 34   USD (Note)
+      $ 1200.00 TOTAL USD
+1035132 04/06/2020 06:28:37[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#93 - SDSK" *TL124* (BNR 2) CashDispensed [See #1035125] 
+           1.00 * 152  USD (Note)
+         100.00 * 17   USD (Note)
+      $ 1852.00 TOTAL USD
+1035133 04/06/2020 06:29:01[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#92 - SDSK" *TL149* TillCheckout 
+       ElapsedTime : 00:00:23
+      $ 1261.12 TOTAL USD - OUT
+1035134 04/06/2020 06:29:05[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Door Closed 
+1035135 04/06/2020 06:29:07[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Drawer Opened 
+1035136 04/06/2020 06:29:30[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#92 - SDSK" *TL149* (BNR 2) CashDispensed [See #1035133] 
+1035137 04/06/2020 06:29:31[200405 210002] BA-02146 "4115 ANGELA BEC" (BNR 2) [See #1035133] BNR DeviceError
+	Detail:[0000E20F]Note didn't reach sensor BVIN in time
+	Location:eModule_TransportBeforeBV
+	General:Notes remaining on transport
+1035138 04/06/2020 06:29:54[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#92 - SDSK" *TL149* (BCR) CashDispensed [See #1035133] 
+           0.01 * 162  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 75   USD (Coin)
+           0.25 * 100  USD (Coin)
+      $   36.12 TOTAL USD
+1035139 04/06/2020 06:30:03[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#92 - SDSK" *TL149* (BNR) CashDispensed [See #1035133] 
+           5.00 * 105  USD (Note)
+          20.00 * 35   USD (Note)
+      $ 1225.00 TOTAL USD
+1035140 04/06/2020 06:30:14[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Door Opened 
+1035141 04/06/2020 06:30:15[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Drawer Closed 
+1035142 04/06/2020 06:31:29[200405 210002] BA-02146 "4115 ANGELA BEC" Logout 
+1035143 04/06/2020 06:31:50[200405 210002] BA-02146 "Jane Doe" Logon 
+1035144 04/06/2020 06:32:02[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035145 04/06/2020 06:32:11[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Unlocked 
+1035146 04/06/2020 06:32:12[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035147 04/06/2020 06:32:19[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035148 04/06/2020 06:34:15[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashDispensed [See #1035149] 
+           1.00 * 60   USD (Note)
+         100.00 * 10   USD (Note)
+      $ 1060.00 TOTAL USD
+1035149 04/06/2020 06:34:17[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+      $ 1060.00 TOTAL USD - OUT
+1035150 04/06/2020 06:34:19[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035151 04/06/2020 06:34:21[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Locked 
+1035152 04/06/2020 06:35:20[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors 
+1035153 04/06/2020 06:35:36[200405 210002] BA-02146 "Jane Doe" Annotation 
+ Coin detected in BNR2 during cash acceptance
+1035154 04/06/2020 06:36:41[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashAccepted [See #1035155] 
+           1.00 * 61   USD (Note)
+         100.00 * 10   USD (Note)
+      $ 1061.00 TOTAL USD
+1035155 04/06/2020 06:36:43[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+       ElapsedTime : 00:04:43
+      $ 1061.00 TOTAL USD - IN
+1035156 04/06/2020 06:36:49[200405 210002] BA-02146 "Jane Doe" TransportReconciliation 
+  Media  Denom  Expected    Actual
+   Note    100        60        61
+   Note  10000        10        10
+1035157 04/06/2020 06:36:50[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 760  USD (Note)
+          20.00 * 1200 USD (Note)
+           1.00 * 765  USD (Note)
+     $100765.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 17   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 46   USD (Note)
+          10.00 * 7    USD (Note)
+          20.00 * 23   USD (Note)
+          50.00 * 223  USD (Note)
+         100.00 * 47   USD (Note)
+      $16627.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035158 04/06/2020 06:37:08[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 760  USD (Note)
+          20.00 * 1200 USD (Note)
+           1.00 * 764  USD (Note)
+     $100764.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 17   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 46   USD (Note)
+          10.00 * 7    USD (Note)
+          20.00 * 23   USD (Note)
+          50.00 * 223  USD (Note)
+         100.00 * 47   USD (Note)
+      $16627.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035159 04/06/2020 06:37:24[200405 210002] BA-02146 "Jane Doe" Logout 
+1035160 04/06/2020 06:37:50[200405 210002] BA-02146 "Jane Doe" Logon 
+1035161 04/06/2020 06:38:14[200405 210002] BA-02146 "Jane Doe" |SDSK| "#92 - SDSK" *TL149* AdvanceCash 
+       ElapsedTime : 00:00:13
+      $   50.00 TOTAL USD - OUT
+1035162 04/06/2020 06:38:43[200405 210002] BA-02146 "Jane Doe" |SDSK| "#92 - SDSK" *TL149* (BNR 2) CashDispensed [See #1035161] 
+           1.00 * 50   USD (Note)
+      $   50.00 TOTAL USD
+1035163 04/06/2020 06:38:52[200405 210002] BA-02146 "Jane Doe" Logout 
+1035164 04/06/2020 06:39:21[200405 210002] BA-02146 "4115 ANGELA BEC" Logon 
+1035165 04/06/2020 06:39:35[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#91 - SDSK" *TL151* TillCheckout 
+       ElapsedTime : 00:00:12
+      $ 2913.85 TOTAL USD - OUT
+1035166 04/06/2020 06:39:40[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Door Closed 
+1035167 04/06/2020 06:39:42[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Drawer Opened 
+1035168 04/06/2020 06:40:20[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#91 - SDSK" *TL151* (BCR) CashDispensed [See #1035165] 
+           0.01 * 135  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 55   USD (Coin)
+           0.25 * 100  USD (Coin)
+      $   33.85 TOTAL USD
+1035169 04/06/2020 06:40:26[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#91 - SDSK" *TL151* (BNR) CashDispensed [See #1035165] 
+           5.00 * 90   USD (Note)
+          20.00 * 10   USD (Note)
+      $  650.00 TOTAL USD
+1035170 04/06/2020 06:40:29[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Door Opened 
+1035171 04/06/2020 06:40:30[200405 210002] BA-02146 "4115 ANGELA BEC" Door Till Drawer Closed 
+1035172 04/06/2020 06:40:58[200405 210002] BA-02146 "4115 ANGELA BEC" |SDSK| "#91 - SDSK" *TL151* (BNR 2) CashDispensed [See #1035165] 
+           1.00 * 150  USD (Note)
+          20.00 * 34   USD (Note)
+         100.00 * 14   USD (Note)
+      $ 2230.00 TOTAL USD
+1035173 04/06/2020 06:41:00[200405 210002] BA-02146 "4115 ANGELA BEC" Logout 
+1035174 04/06/2020 06:41:17[200405 210002] BA-02146 "4115 ANGELA BEC" Logon 
+1035175 04/06/2020 06:41:23[200405 210002] BA-02146 "4115 ANGELA BEC" Door StorageVault OpenRequest 
+1035176 04/06/2020 06:41:32[200405 210002] BA-02146 "4115 ANGELA BEC" Logout 
+1035177 04/06/2020 06:41:33[200405 210002] BA-02146 Door StorageVault Opened 
+1035178 04/06/2020 06:41:35[200405 210002] BA-02146 Door StorageVault Closed 
+1035179 04/06/2020 06:44:00[200405 210002] BA-02146 "4782 MERCEDITA GAM" Logon 
+1035180 04/06/2020 06:44:53[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Drawer Opened 
+1035181 04/06/2020 06:44:54[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Front End| "#01 - FRNT" *TL119* TillCheckout 
+       ElapsedTime : 00:00:26
+      $  372.96 TOTAL USD - OUT
+1035182 04/06/2020 06:44:59[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Door Closed 
+1035183 04/06/2020 06:45:23[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Front End| "#01 - FRNT" *TL119* (BNR) CashDispensed [See #1035181] 
+           5.00 * 39   USD (Note)
+          20.00 * 4    USD (Note)
+      $  275.00 TOTAL USD
+1035184 04/06/2020 06:45:35[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Front End| "#01 - FRNT" *TL119* (BCR) CashDispensed [See #1035181] 
+           0.01 * 121  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 60   USD (Coin)
+           0.25 * 87   USD (Coin)
+      $   30.96 TOTAL USD
+1035185 04/06/2020 06:45:58[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Front End| "#01 - FRNT" *TL119* (BNR 2) CashDispensed [See #1035181] 
+           1.00 * 67   USD (Note)
+      $   67.00 TOTAL USD
+1035186 04/06/2020 06:46:06[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Door Opened 
+1035187 04/06/2020 06:46:07[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Drawer Closed 
+1035188 04/06/2020 06:46:57[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Front End| "#03 - FRNT" *TL115* TillCheckout 
+       ElapsedTime : 00:00:26
+      $  294.40 TOTAL USD - OUT
+1035189 04/06/2020 06:46:59[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Door Closed 
+1035190 04/06/2020 06:47:01[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Drawer Opened 
+1035191 04/06/2020 06:47:29[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Front End| "#03 - FRNT" *TL115* (BNR) CashDispensed [See #1035188] 
+           5.00 * 25   USD (Note)
+      $  125.00 TOTAL USD
+1035192 04/06/2020 06:47:38[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Front End| "#03 - FRNT" *TL115* (BNR 2) CashDispensed [See #1035188] 
+           1.00 * 60   USD (Note)
+          20.00 * 4    USD (Note)
+      $  140.00 TOTAL USD
+1035193 04/06/2020 06:47:46[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Front End| "#03 - FRNT" *TL115* (BCR) CashDispensed [See #1035188] 
+           0.01 * 145  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 52   USD (Coin)
+           0.25 * 83   USD (Coin)
+      $   29.40 TOTAL USD
+1035194 04/06/2020 06:47:58[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Door Opened 
+1035195 04/06/2020 06:47:59[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Drawer Closed 
+1035196 04/06/2020 06:48:27[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Pay Station| "#52 - PAY STATION" *TL123* TillCheckout 
+       ElapsedTime : 00:00:15
+      $  232.25 TOTAL USD - OUT
+1035197 04/06/2020 06:48:31[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Door Closed 
+1035198 04/06/2020 06:48:32[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Drawer Opened 
+1035199 04/06/2020 06:48:51[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Pay Station| "#52 - PAY STATION" *TL123* (BNR) CashDispensed [See #1035196] 
+           5.00 * 20   USD (Note)
+      $  100.00 TOTAL USD
+1035200 04/06/2020 06:48:54[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Pay Station| "#52 - PAY STATION" *TL123* (BNR 2) CashDispensed [See #1035196] 
+           1.00 * 34   USD (Note)
+          20.00 * 4    USD (Note)
+      $  114.00 TOTAL USD
+1035201 04/06/2020 06:49:02[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Pay Station| "#52 - PAY STATION" *TL123* (BCR) CashDispensed [See #1035196] 
+           0.01 * 100  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 50   USD (Coin)
+           0.25 * 41   USD (Coin)
+      $   18.25 TOTAL USD
+1035202 04/06/2020 06:49:19[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Door Opened 
+1035203 04/06/2020 06:49:21[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Drawer Closed 
+1035204 04/06/2020 06:49:52[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Garden| "#71 - GRDN" *TL155* TillCheckout 
+       ElapsedTime : 00:00:14
+      $  517.50 TOTAL USD - OUT
+1035205 04/06/2020 06:49:54[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Door Closed 
+1035206 04/06/2020 06:49:56[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Drawer Opened 
+1035207 04/06/2020 06:50:23[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Garden| "#71 - GRDN" *TL155* (BNR) CashDispensed [See #1035204] 
+           5.00 * 52   USD (Note)
+      $  260.00 TOTAL USD
+1035208 04/06/2020 06:50:55[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Garden| "#71 - GRDN" *TL155* (BNR 2) CashDispensed [See #1035204] 
+           1.00 * 132  USD (Note)
+          20.00 * 4    USD (Note)
+      $  212.00 TOTAL USD
+1035209 04/06/2020 06:50:56[200405 210002] BA-02146 "4782 MERCEDITA GAM" |Garden| "#71 - GRDN" *TL155* (BCR) CashDispensed [See #1035204] 
+           0.01 * 200  USD (Coin)
+           0.05 * 80   USD (Coin)
+           0.10 * 145  USD (Coin)
+           0.25 * 100  USD (Coin)
+      $   45.50 TOTAL USD
+1035210 04/06/2020 06:51:03[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Door Opened 
+1035211 04/06/2020 06:51:04[200405 210002] BA-02146 "4782 MERCEDITA GAM" Door Till Drawer Closed 
+1035212 04/06/2020 06:51:24[200405 210002] BA-02146 "4782 MERCEDITA GAM" Logout 
+1035213 04/06/2020 06:57:07[200405 210002] BA-02146 "4447 ILUMINADA GAR" Logon 
+1035214 04/06/2020 06:57:26[200405 210002] BA-02146 "4447 ILUMINADA GAR" Door Till Drawer Opened 
+1035215 04/06/2020 06:57:28[200405 210002] BA-02146 "4447 ILUMINADA GAR" |OTHER| "#90 - TLE" *TL126* TillCheckout 
+       ElapsedTime : 00:00:17
+      $  208.00 TOTAL USD - OUT
+1035216 04/06/2020 06:57:32[200405 210002] BA-02146 "4447 ILUMINADA GAR" Door Till Door Closed 
+1035217 04/06/2020 06:57:58[200405 210002] BA-02146 "4447 ILUMINADA GAR" |OTHER| "#90 - TLE" *TL126* (BCR) CashDispensed [See #1035215] 
+           0.01 * 100  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 50   USD (Coin)
+           0.25 * 40   USD (Coin)
+      $   18.00 TOTAL USD
+1035218 04/06/2020 06:58:07[200405 210002] BA-02146 "4447 ILUMINADA GAR" |OTHER| "#90 - TLE" *TL126* (BNR) CashDispensed [See #1035215] 
+           5.00 * 16   USD (Note)
+      $   80.00 TOTAL USD
+1035219 04/06/2020 06:58:14[200405 210002] BA-02146 "4447 ILUMINADA GAR" Door Till Door Opened 
+1035220 04/06/2020 06:58:15[200405 210002] BA-02146 "4447 ILUMINADA GAR" Door Till Drawer Closed 
+1035221 04/06/2020 06:58:22[200405 210002] BA-02146 "4447 ILUMINADA GAR" |OTHER| "#90 - TLE" *TL126* (BNR 2) CashDispensed [See #1035215] 
+           1.00 * 30   USD (Note)
+          20.00 * 4    USD (Note)
+      $  110.00 TOTAL USD
+1035222 04/06/2020 06:58:23[200405 210002] BA-02146 "4447 ILUMINADA GAR" Logout 
+1035223 04/06/2020 07:09:18[200405 210002] BA-02146 "REMMIE ALEJANDRO" Logon 
+1035224 04/06/2020 07:09:36[200405 210002] BA-02146 "REMMIE ALEJANDRO" |Electronics| "#67 - ELEC" *TL158* TillCheckout 
+       ElapsedTime : 00:00:16
+      $  316.47 TOTAL USD - OUT
+1035225 04/06/2020 07:09:37[200405 210002] BA-02146 "REMMIE ALEJANDRO" Door Till Door Closed 
+1035226 04/06/2020 07:09:39[200405 210002] BA-02146 "REMMIE ALEJANDRO" Door Till Drawer Opened 
+1035227 04/06/2020 07:10:03[200405 210002] BA-02146 "REMMIE ALEJANDRO" |Electronics| "#67 - ELEC" *TL158* (BNR) CashDispensed [See #1035224] 
+           5.00 * 29   USD (Note)
+      $  145.00 TOTAL USD
+1035228 04/06/2020 07:10:09[200405 210002] BA-02146 "REMMIE ALEJANDRO" |Electronics| "#67 - ELEC" *TL158* (BNR 2) CashDispensed [See #1035224] 
+           1.00 * 62   USD (Note)
+          20.00 * 4    USD (Note)
+      $  142.00 TOTAL USD
+1035229 04/06/2020 07:10:12[200405 210002] BA-02146 "REMMIE ALEJANDRO" |Electronics| "#67 - ELEC" *TL158* (BCR) CashDispensed [See #1035224] 
+           0.01 * 107  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 59   USD (Coin)
+           0.25 * 82   USD (Coin)
+      $   29.47 TOTAL USD
+1035230 04/06/2020 07:10:16[200405 210002] BA-02146 "REMMIE ALEJANDRO" Door Till Door Opened 
+1035231 04/06/2020 07:10:18[200405 210002] BA-02146 "REMMIE ALEJANDRO" Door Till Drawer Closed 
+1035232 04/06/2020 07:10:50[200405 210002] BA-02146 "REMMIE ALEJANDRO" |Electronics| "#68 - ELEC" *TL144* TillCheckout 
+       ElapsedTime : 00:00:34
+      $  287.00 TOTAL USD - OUT
+1035233 04/06/2020 07:10:54[200405 210002] BA-02146 "REMMIE ALEJANDRO" Door Till Door Closed 
+1035234 04/06/2020 07:10:56[200405 210002] BA-02146 "REMMIE ALEJANDRO" Door Till Drawer Opened 
+1035235 04/06/2020 07:11:14[200405 210002] BA-02146 "REMMIE ALEJANDRO" |Electronics| "#68 - ELEC" *TL144* (BNR) CashDispensed [See #1035232] 
+           5.00 * 28   USD (Note)
+      $  140.00 TOTAL USD
+1035236 04/06/2020 07:11:22[200405 210002] BA-02146 "REMMIE ALEJANDRO" |Electronics| "#68 - ELEC" *TL144* (BNR 2) CashDispensed [See #1035232] 
+           1.00 * 44   USD (Note)
+          20.00 * 4    USD (Note)
+      $  124.00 TOTAL USD
+1035237 04/06/2020 07:11:25[200405 210002] BA-02146 "REMMIE ALEJANDRO" |Electronics| "#68 - ELEC" *TL144* (BCR) CashDispensed [See #1035232] 
+           0.01 * 100  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 50   USD (Coin)
+           0.25 * 60   USD (Coin)
+      $   23.00 TOTAL USD
+1035238 04/06/2020 07:11:31[200405 210002] BA-02146 "REMMIE ALEJANDRO" Logout 
+1035239 04/06/2020 07:11:33[200405 210002] BA-02146 Door Till Door Opened 
+1035240 04/06/2020 07:11:35[200405 210002] BA-02146 Door Till Drawer Closed 
+1035241 04/06/2020 07:19:38[200405 210002] BA-02146 "Jane Doe" Logon 
+1035242 04/06/2020 07:19:56[200405 210002] BA-02146 "Jane Doe" SessionStart 
+1035243 04/06/2020 07:23:39[200405 210002] BA-02146 "Jane Doe" |SCO| "#47 - BNR SCO" *RG61169-01* (BNR) CashAccepted [See #1035246] 
+           5.00 * 38   USD (Note)
+          20.00 * 33   USD (Note)
+          50.00 * 4    USD (Note)
+         100.00 * 9    USD (Note)
+      $ 1950.00 TOTAL USD
+1035244 04/06/2020 07:23:42[200405 210002] BA-02146 "Jane Doe" |SCO| "#47 - BNR SCO" *RG61169-01* (BNR 2) CashAccepted [See #1035246] 
+           1.00 * 65   USD (Note)
+         100.00 * 12   USD (Note)
+      $ 1265.00 TOTAL USD
+1035245 04/06/2020 07:23:56[200405 210002] BA-02146 "Jane Doe" |SCO| "#47 - BNR SCO" *RG61169-01* VaultDrop [See #1035246] 
+       DeltasNotExpected : 
+          40.00 * 1    USD (Cash)
+      $   40.00 TOTAL USD
+       BagID BG 1137222
+1035246 04/06/2020 07:23:58[200405 210002] BA-02146 "Jane Doe" |SCO| "#47 - BNR SCO" *RG61169-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:04:01
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 3255.00
+       QrTimestamp : 2020-04-06 05:48
+      $ 3255.00 TOTAL USD - IN
+1035247 04/06/2020 07:26:42[200405 210002] BA-02146 "Jane Doe" |SCO| "#45 - BNR SCO" *RG61111-01* (BNR) CashAccepted [See #1035248] 
+           5.00 * 5    USD (Note)
+          20.00 * 30   USD (Note)
+          50.00 * 12   USD (Note)
+         100.00 * 11   USD (Note)
+      $ 2325.00 TOTAL USD
+1035248 04/06/2020 07:26:44[200405 210002] BA-02146 "Jane Doe" |SCO| "#45 - BNR SCO" *RG61111-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:01
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 5231.00
+       QrTimestamp : 2020-04-06 05:47
+      $ 5231.00 TOTAL USD - IN
+1035249 04/06/2020 07:26:46[200405 210002] BA-02146 "Jane Doe" |SCO| "#45 - BNR SCO" *RG61111-01* (BNR 2) CashAccepted [See #1035248] 
+           1.00 * 26   USD (Note)
+          20.00 * 29   USD (Note)
+         100.00 * 23   USD (Note)
+      $ 2906.00 TOTAL USD
+1035250 04/06/2020 07:28:12[200405 210002] BA-02146 "Jane Doe" |SCO| "#39 - BNR SCO" *RG61246-01* (BNR) CashAccepted [See #1035251] 
+           5.00 * 13   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 7    USD (Note)
+      $ 1165.00 TOTAL USD
+1035251 04/06/2020 07:28:14[200405 210002] BA-02146 "Jane Doe" |SCO| "#39 - BNR SCO" *RG61246-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:18
+       ScoLongShort : $    1.00
+       QrTotalAmount : $ 3431.00
+       QrTimestamp : 2020-04-06 05:43
+      $ 3430.00 TOTAL USD - IN
+1035252 04/06/2020 07:28:16[200405 210002] BA-02146 "Jane Doe" |SCO| "#39 - BNR SCO" *RG61246-01* (BNR 2) CashAccepted [See #1035251] 
+           1.00 * 25   USD (Note)
+          20.00 * 17   USD (Note)
+         100.00 * 19   USD (Note)
+      $ 2265.00 TOTAL USD
+1035253 04/06/2020 07:29:57[200405 210002] BA-02146 "Jane Doe" |SCO| "#44 - BNR SCO" *RG61110-01* (BNR) CashAccepted [See #1035256] 
+           5.00 * 20   USD (Note)
+          50.00 * 13   USD (Note)
+         100.00 * 22   USD (Note)
+      $ 2950.00 TOTAL USD
+1035254 04/06/2020 07:29:59[200405 210002] BA-02146 "Jane Doe" |SCO| "#44 - BNR SCO" *RG61110-01* (BNR 2) CashAccepted [See #1035256] 
+           1.00 * 9    USD (Note)
+          20.00 * 51   USD (Note)
+         100.00 * 11   USD (Note)
+      $ 2129.00 TOTAL USD
+1035255 04/06/2020 07:30:09[200405 210002] BA-02146 "Jane Doe" |SCO| "#44 - BNR SCO" *RG61110-01* VaultDrop [See #1035256] 
+       DeltasNotExpected : 
+           1.00 * 1    USD (Cash)
+      $    1.00 TOTAL USD
+       BagID BG 090531
+1035256 04/06/2020 07:30:11[200405 210002] BA-02146 "Jane Doe" |SCO| "#44 - BNR SCO" *RG61110-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:06
+       ScoLongShort : $   -1.00
+       QrTotalAmount : $ 5079.00
+       QrTimestamp : 2020-04-06 05:44
+      $ 5080.00 TOTAL USD - IN
+1035257 04/06/2020 07:33:01[200405 210002] BA-02146 "Jane Doe" |SCO| "#38 - BNR SCO" *RG61245-01* (BNR) CashAccepted [See #1035258] 
+           1.00 * 4    USD (Note)
+          20.00 * 68   USD (Note)
+          50.00 * 7    USD (Note)
+         100.00 * 13   USD (Note)
+      $ 3014.00 TOTAL USD
+1035258 04/06/2020 07:33:03[200405 210002] BA-02146 "Jane Doe" |SCO| "#38 - BNR SCO" *RG61245-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:35
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 3915.00
+       QrTimestamp : 2020-04-06 05:41
+      $ 3915.00 TOTAL USD - IN
+1035259 04/06/2020 07:33:05[200405 210002] BA-02146 "Jane Doe" |SCO| "#38 - BNR SCO" *RG61245-01* (BNR 2) CashAccepted [See #1035258] 
+           1.00 * 61   USD (Note)
+          20.00 * 2    USD (Note)
+         100.00 * 8    USD (Note)
+      $  901.00 TOTAL USD
+1035260 04/06/2020 07:36:50[200405 210002] BA-02146 "Jane Doe" |SCO| "#50 - BNR SCO" *RG61183-01* (BNR) CashAccepted [See #1035263] 
+           5.00 * 29   USD (Note)
+          20.00 * 14   USD (Note)
+          50.00 * 5    USD (Note)
+         100.00 * 7    USD (Note)
+      $ 1375.00 TOTAL USD
+1035261 04/06/2020 07:36:52[200405 210002] BA-02146 "Jane Doe" |SCO| "#50 - BNR SCO" *RG61183-01* (BNR 2) CashAccepted [See #1035263] 
+           1.00 * 21   USD (Note)
+           5.00 * 1    USD (Note)
+          20.00 * 24   USD (Note)
+         100.00 * 18   USD (Note)
+      $ 2306.00 TOTAL USD
+1035262 04/06/2020 07:37:07[200405 210002] BA-02146 "Jane Doe" |SCO| "#50 - BNR SCO" *RG61183-01* VaultDrop [See #1035263] 
+       DeltasNotExpected : 
+           1.00 * 1    USD (Cash)
+      $    1.00 TOTAL USD
+       BagID BG 1137211
+1035263 04/06/2020 07:37:09[200405 210002] BA-02146 "Jane Doe" |SCO| "#50 - BNR SCO" *RG61183-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:22
+       ScoLongShort : $    1.00
+       QrTotalAmount : $ 3683.00
+       QrTimestamp : 2020-04-06 05:54
+      $ 3682.00 TOTAL USD - IN
+1035264 04/06/2020 07:39:12[200405 210002] BA-02146 "Jane Doe" Annotation 
+ Coin detected in BNR2 during cash acceptance
+1035265 04/06/2020 07:39:26[200405 210002] BA-02146 "Jane Doe" Annotation 
+ Coin detected in BNR2 during cash acceptance
+1035266 04/06/2020 07:40:50[200405 210002] BA-02146 "Jane Doe" |SCO| "#23 - BNR SCO" *RG61230-01* (BNR) CashAccepted [See #1035267] 
+           5.00 * 36   USD (Note)
+          20.00 * 12   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 9    USD (Note)
+      $ 1720.00 TOTAL USD
+1035267 04/06/2020 07:40:52[200405 210002] BA-02146 "Jane Doe" |SCO| "#23 - BNR SCO" *RG61230-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:57
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 3721.00
+       QrTimestamp : 2020-04-06 06:05
+      $ 3721.00 TOTAL USD - IN
+1035268 04/06/2020 07:40:54[200405 210002] BA-02146 "Jane Doe" |SCO| "#23 - BNR SCO" *RG61230-01* (BNR 2) CashAccepted [See #1035267] 
+           1.00 * 41   USD (Note)
+          20.00 * 48   USD (Note)
+         100.00 * 10   USD (Note)
+      $ 2001.00 TOTAL USD
+1035269 04/06/2020 07:43:07[200405 210002] BA-02146 "Jane Doe" |SCO| "#25 - BNR SCO" *RG61232-01* (BNR) CashAccepted [See #1035272] 
+           5.00 * 7    USD (Note)
+          20.00 * 6    USD (Note)
+          50.00 * 3    USD (Note)
+         100.00 * 4    USD (Note)
+      $  705.00 TOTAL USD
+1035270 04/06/2020 07:43:09[200405 210002] BA-02146 "Jane Doe" |SCO| "#25 - BNR SCO" *RG61232-01* (BNR 2) CashAccepted [See #1035272] 
+           1.00 * 35   USD (Note)
+          20.00 * 1    USD (Note)
+      $   55.00 TOTAL USD
+1035271 04/06/2020 07:43:18[200405 210002] BA-02146 "Jane Doe" |SCO| "#25 - BNR SCO" *RG61232-01* VaultDrop [See #1035272] 
+       DeltasNotExpected : 
+           1.00 * 1    USD (Cash)
+      $    1.00 TOTAL USD
+       BagID BG 1137216
+1035272 04/06/2020 07:43:19[200405 210002] BA-02146 "Jane Doe" |SCO| "#25 - BNR SCO" *RG61232-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:23
+       ScoLongShort : $    0.00
+       QrTotalAmount : $  761.00
+       QrTimestamp : 2020-04-06 06:01
+      $  761.00 TOTAL USD - IN
+1035273 04/06/2020 07:44:10[200405 210002] BA-02146 "Jane Doe" |SCO| "#19 - BNR SCO" *RG61226-01* (BNR) CashAccepted [See #1035274] 
+           5.00 * 2    USD (Note)
+          20.00 * 29   USD (Note)
+          50.00 * 4    USD (Note)
+         100.00 * 7    USD (Note)
+      $ 1490.00 TOTAL USD
+1035274 04/06/2020 07:44:12[200405 210002] BA-02146 "Jane Doe" |SCO| "#19 - BNR SCO" *RG61226-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:00:42
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 1490.00
+       QrTimestamp : 2020-04-06 05:59
+      $ 1490.00 TOTAL USD - IN
+1035275 04/06/2020 07:44:14[200405 210002] BA-02146 "Jane Doe" |SCO| "#19 - BNR SCO" *RG61226-01* (BNR 2) CashAccepted [See #1035274] 
+1035276 04/06/2020 07:45:10[200405 210002] BA-02146 "Jane Doe" |SCO| "#26 - BNR SCO" *RG61233-01* (BNR) CashAccepted [See #1035277] 
+           5.00 * 13   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 2    USD (Note)
+         100.00 * 5    USD (Note)
+      $ 1305.00 TOTAL USD
+1035277 04/06/2020 07:45:12[200405 210002] BA-02146 "Jane Doe" |SCO| "#26 - BNR SCO" *RG61233-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:00:54
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 1376.00
+       QrTimestamp : 2020-04-06 05:59
+      $ 1376.00 TOTAL USD - IN
+1035278 04/06/2020 07:45:14[200405 210002] BA-02146 "Jane Doe" |SCO| "#26 - BNR SCO" *RG61233-01* (BNR 2) CashAccepted [See #1035277] 
+           1.00 * 51   USD (Note)
+          20.00 * 1    USD (Note)
+      $   71.00 TOTAL USD
+1035279 04/06/2020 07:46:04[200405 210002] BA-02146 "Jane Doe" |SCO| "#20 - BNR SCO" *RG61227-01* (BNR) CashAccepted [See #1035280] 
+           5.00 * 18   USD (Note)
+          20.00 * 26   USD (Note)
+          50.00 * 7    USD (Note)
+         100.00 * 11   USD (Note)
+      $ 2060.00 TOTAL USD
+1035280 04/06/2020 07:46:06[200405 210002] BA-02146 "Jane Doe" |SCO| "#20 - BNR SCO" *RG61227-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:00:49
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 2060.00
+       QrTimestamp : 2020-04-06 06:03
+      $ 2060.00 TOTAL USD - IN
+1035281 04/06/2020 07:46:08[200405 210002] BA-02146 "Jane Doe" |SCO| "#20 - BNR SCO" *RG61227-01* (BNR 2) CashAccepted [See #1035280] 
+1035282 04/06/2020 07:46:31[200405 210002] BA-02146 "Jane Doe" Annotation 
+ Coin detected in BNR2 during cash acceptance
+1035283 04/06/2020 07:47:21[200405 210002] BA-02146 "Jane Doe" |SCO| "#21 - BNR SCO" *RG61228-01* (BNR) CashAccepted [See #1035284] 
+           5.00 * 16   USD (Note)
+          20.00 * 34   USD (Note)
+          50.00 * 4    USD (Note)
+         100.00 * 13   USD (Note)
+      $ 2260.00 TOTAL USD
+1035284 04/06/2020 07:47:22[200405 210002] BA-02146 "Jane Doe" |SCO| "#21 - BNR SCO" *RG61228-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:10
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 2263.00
+       QrTimestamp : 2020-04-06 06:05
+      $ 2263.00 TOTAL USD - IN
+1035285 04/06/2020 07:47:24[200405 210002] BA-02146 "Jane Doe" |SCO| "#21 - BNR SCO" *RG61228-01* (BNR 2) CashAccepted [See #1035284] 
+           1.00 * 3    USD (Note)
+      $    3.00 TOTAL USD
+1035286 04/06/2020 07:49:57[200405 210002] BA-02146 "Jane Doe" |SCO| "#22 - BNR SCO" *RG61229-01* (BNR) CashAccepted [See #1035287] 
+          20.00 * 5    USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 9    USD (Note)
+      $ 1400.00 TOTAL USD
+1035287 04/06/2020 07:49:59[200405 210002] BA-02146 "Jane Doe" |SCO| "#22 - BNR SCO" *RG61229-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:33
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 1426.00
+       QrTimestamp : 2020-04-06 06:08
+      $ 1426.00 TOTAL USD - IN
+1035288 04/06/2020 07:50:01[200405 210002] BA-02146 "Jane Doe" |SCO| "#22 - BNR SCO" *RG61229-01* (BNR 2) CashAccepted [See #1035287] 
+           1.00 * 6    USD (Note)
+          20.00 * 1    USD (Note)
+      $   26.00 TOTAL USD
+1035289 04/06/2020 07:52:28[200405 210002] BA-02146 "Jane Doe" |SCO| "#27 - BNR SCO" *RG61234-01* (BNR) CashAccepted [See #1035290] 
+          20.00 * 52   USD (Note)
+          50.00 * 10   USD (Note)
+         100.00 * 33   USD (Note)
+      $ 4840.00 TOTAL USD
+1035290 04/06/2020 07:52:29[200405 210002] BA-02146 "Jane Doe" |SCO| "#27 - BNR SCO" *RG61234-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:24
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 5041.00
+       QrTimestamp : 2020-04-06 05:24
+      $ 5041.00 TOTAL USD - IN
+1035291 04/06/2020 07:52:31[200405 210002] BA-02146 "Jane Doe" |SCO| "#27 - BNR SCO" *RG61234-01* (BNR 2) CashAccepted [See #1035290] 
+           1.00 * 81   USD (Note)
+          20.00 * 1    USD (Note)
+         100.00 * 1    USD (Note)
+      $  201.00 TOTAL USD
+1035292 04/06/2020 07:54:46[200405 210002] BA-02146 "Jane Doe" |SCO| "#28 - BNR SCO" *RG61235-01* (BNR) CashAccepted [See #1035293] 
+           5.00 * 18   USD (Note)
+          20.00 * 22   USD (Note)
+          50.00 * 9    USD (Note)
+         100.00 * 23   USD (Note)
+      $ 3280.00 TOTAL USD
+1035293 04/06/2020 07:54:47[200405 210002] BA-02146 "Jane Doe" |SCO| "#28 - BNR SCO" *RG61235-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:04
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 7698.00
+       QrTimestamp : 2020-04-06 05:24
+      $ 7698.00 TOTAL USD - IN
+1035294 04/06/2020 07:54:49[200405 210002] BA-02146 "Jane Doe" |SCO| "#28 - BNR SCO" *RG61235-01* (BNR 2) CashAccepted [See #1035293] 
+           1.00 * 8    USD (Note)
+          20.00 * 43   USD (Note)
+          50.00 * 1    USD (Note)
+         100.00 * 35   USD (Note)
+      $ 4418.00 TOTAL USD
+1035295 04/06/2020 07:56:34[200405 210002] BA-02146 "Jane Doe" |SCO| "#29 - BNR SCO" *RG61236-01* (BNR) CashAccepted [See #1035296] 
+           5.00 * 1    USD (Note)
+          20.00 * 43   USD (Note)
+          50.00 * 6    USD (Note)
+         100.00 * 23   USD (Note)
+      $ 3465.00 TOTAL USD
+1035296 04/06/2020 07:56:36[200405 210002] BA-02146 "Jane Doe" |SCO| "#29 - BNR SCO" *RG61236-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:44
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 5445.00
+       QrTimestamp : 2020-04-06 05:26
+      $ 5445.00 TOTAL USD - IN
+1035297 04/06/2020 07:56:38[200405 210002] BA-02146 "Jane Doe" |SCO| "#29 - BNR SCO" *RG61236-01* (BNR 2) CashAccepted [See #1035296] 
+          20.00 * 54   USD (Note)
+         100.00 * 9    USD (Note)
+      $ 1980.00 TOTAL USD
+1035298 04/06/2020 07:59:19[200405 210002] BA-02146 "Jane Doe" |SCO| "#32 - BNR SCO" *RG61239-01* (BNR) CashAccepted [See #1035301] 
+           5.00 * 11   USD (Note)
+          20.00 * 37   USD (Note)
+          50.00 * 21   USD (Note)
+         100.00 * 10   USD (Note)
+      $ 2845.00 TOTAL USD
+1035299 04/06/2020 07:59:20[200405 210002] BA-02146 "Jane Doe" |SCO| "#32 - BNR SCO" *RG61239-01* (BNR 2) CashAccepted [See #1035301] 
+           1.00 * 20   USD (Note)
+          20.00 * 52   USD (Note)
+         100.00 * 29   USD (Note)
+      $ 3960.00 TOTAL USD
+1035300 04/06/2020 07:59:32[200405 210002] BA-02146 "Jane Doe" |SCO| "#32 - BNR SCO" *RG61239-01* VaultDrop [See #1035301] 
+       DeltasNotExpected : 
+          11.00 * 1    USD (Cash)
+      $   11.00 TOTAL USD
+       BagID BG 090464
+1035301 04/06/2020 07:59:33[200405 210002] BA-02146 "Jane Doe" |SCO| "#32 - BNR SCO" *RG61239-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:37
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 6816.00
+       QrTimestamp : 2020-04-06 05:30
+      $ 6816.00 TOTAL USD - IN
+1035302 04/06/2020 08:03:44[200405 210002] BA-02146 "Jane Doe" |SCO| "#34 - BNR SCO" *RG61241-01* (BNR) CashAccepted [See #1035303] 
+           5.00 * 21   USD (Note)
+          20.00 * 45   USD (Note)
+          50.00 * 11   USD (Note)
+         100.00 * 25   USD (Note)
+      $ 4055.00 TOTAL USD
+1035303 04/06/2020 08:03:46[200405 210002] BA-02146 "Jane Doe" |SCO| "#34 - BNR SCO" *RG61241-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:38
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 8268.00
+       QrTimestamp : 2020-04-06 05:33
+      $ 8268.00 TOTAL USD - IN
+1035304 04/06/2020 08:03:48[200405 210002] BA-02146 "Jane Doe" |SCO| "#34 - BNR SCO" *RG61241-01* (BNR 2) CashAccepted [See #1035303] 
+           1.00 * 16   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 1    USD (Note)
+          20.00 * 67   USD (Note)
+          50.00 * 1    USD (Note)
+         100.00 * 28   USD (Note)
+      $ 4213.00 TOTAL USD
+1035305 04/06/2020 08:05:04[200405 210002] BA-02146 "Jane Doe" |SCO| "#31 - BNR SCO" *RG61238-01* (BNR) CashAccepted [See #1035308] 
+           5.00 * 28   USD (Note)
+          10.00 * 11   USD (Note)
+          20.00 * 38   USD (Note)
+          50.00 * 15   USD (Note)
+         100.00 * 8    USD (Note)
+      $ 2560.00 TOTAL USD
+1035306 04/06/2020 08:05:05[200405 210002] BA-02146 "Jane Doe" |SCO| "#31 - BNR SCO" *RG61238-01* (BNR 2) CashAccepted [See #1035308] 
+           1.00 * 1    USD (Note)
+           5.00 * 2    USD (Note)
+          10.00 * 5    USD (Note)
+          20.00 * 54   USD (Note)
+         100.00 * 51   USD (Note)
+      $ 6241.00 TOTAL USD
+1035307 04/06/2020 08:05:21[200405 210002] BA-02146 "Jane Doe" |SCO| "#31 - BNR SCO" *RG61238-01* VaultDrop [See #1035308] 
+       DeltasNotExpected : 
+           2.00 * 1    USD (Cash)
+      $    2.00 TOTAL USD
+       BagID BG 1137212
+1035308 04/06/2020 08:05:22[200405 210002] BA-02146 "Jane Doe" |SCO| "#31 - BNR SCO" *RG61238-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:21
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 8803.00
+       QrTimestamp : 2020-04-06 05:28
+      $ 8803.00 TOTAL USD - IN
+1035309 04/06/2020 08:09:47[200405 210002] BA-02146 "Jane Doe" |SCO| "#30 - BNR SCO" *RG61237-01* (BNR 2) CashAccepted [See #1035312] 
+           1.00 * 28   USD (Note)
+          20.00 * 54   USD (Note)
+         100.00 * 29   USD (Note)
+      $ 4008.00 TOTAL USD
+1035310 04/06/2020 08:09:49[200405 210002] BA-02146 "Jane Doe" |SCO| "#30 - BNR SCO" *RG61237-01* (BNR) CashAccepted [See #1035312] 
+           5.00 * 28   USD (Note)
+          20.00 * 56   USD (Note)
+          50.00 * 9    USD (Note)
+         100.00 * 23   USD (Note)
+      $ 4010.00 TOTAL USD
+1035311 04/06/2020 08:10:07[200405 210002] BA-02146 "Jane Doe" |SCO| "#30 - BNR SCO" *RG61237-01* VaultDrop [See #1035312] 
+       DeltasNotExpected : 
+          30.00 * 1    USD (Cash)
+      $   30.00 TOTAL USD
+       BagID BG 090486
+1035312 04/06/2020 08:10:09[200405 210002] BA-02146 "Jane Doe" |SCO| "#30 - BNR SCO" *RG61237-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:24
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 8048.00
+       QrTimestamp : 2020-04-06 05:26
+      $ 8048.00 TOTAL USD - IN
+1035313 04/06/2020 08:12:20[200405 210002] BA-02146 "Jane Doe" |SCO| "#46 - BNR SCO" *RG61112-01* (BNR) CashAccepted [See #1035315] 
+           5.00 * 68   USD (Note)
+          50.00 * 14   USD (Note)
+         100.00 * 1    USD (Note)
+      $ 1140.00 TOTAL USD
+1035314 04/06/2020 08:12:21[200405 210002] BA-02146 "Jane Doe" |SCO| "#46 - BNR SCO" *RG61112-01* (BNR 2) CashAccepted [See #1035315] 
+           1.00 * 13   USD (Note)
+           5.00 * 1    USD (Note)
+          20.00 * 33   USD (Note)
+         100.00 * 33   USD (Note)
+      $ 3978.00 TOTAL USD
+1035315 04/06/2020 08:12:25[200405 210002] BA-02146 "Jane Doe" |SCO| "#46 - BNR SCO" *RG61112-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:11
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 5118.00
+       QrTimestamp : 2020-04-06 05:46
+      $ 5118.00 TOTAL USD - IN
+1035316 04/06/2020 08:14:22[200405 210002] BA-02146 "Jane Doe" |SCO| "#36 - BNR SCO" *RG61243-01* (BNR 2) CashAccepted [See #1035319] 
+           1.00 * 12   USD (Note)
+           5.00 * 1    USD (Note)
+          20.00 * 7    USD (Note)
+         100.00 * 22   USD (Note)
+      $ 2357.00 TOTAL USD
+1035317 04/06/2020 08:14:28[200405 210002] BA-02146 "Jane Doe" |SCO| "#36 - BNR SCO" *RG61243-01* (BNR) CashAccepted [See #1035319] 
+           5.00 * 12   USD (Note)
+          20.00 * 34   USD (Note)
+          50.00 * 10   USD (Note)
+         100.00 * 12   USD (Note)
+      $ 2440.00 TOTAL USD
+1035318 04/06/2020 08:14:41[200405 210002] BA-02146 "Jane Doe" |SCO| "#36 - BNR SCO" *RG61243-01* VaultDrop [See #1035319] 
+       DeltasNotExpected : 
+         100.00 * 1    USD (Cash)
+      $  100.00 TOTAL USD
+       BagID BG 090473
+1035319 04/06/2020 08:14:42[200405 210002] BA-02146 "Jane Doe" |SCO| "#36 - BNR SCO" *RG61243-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:06
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 4897.00
+       QrTimestamp : 2020-04-06 05:37
+      $ 4897.00 TOTAL USD - IN
+1035320 04/06/2020 08:16:36[200405 210002] BA-02146 "Jane Doe" |SCO| "#33 - BNR SCO" *RG61240-01* (BNR 2) CashAccepted [See #1035323] 
+           1.00 * 17   USD (Note)
+           5.00 * 1    USD (Note)
+          20.00 * 55   USD (Note)
+         100.00 * 31   USD (Note)
+      $ 4222.00 TOTAL USD
+1035321 04/06/2020 08:16:37[200405 210002] BA-02146 "Jane Doe" |SCO| "#33 - BNR SCO" *RG61240-01* (BNR) CashAccepted [See #1035323] 
+           5.00 * 13   USD (Note)
+          20.00 * 16   USD (Note)
+          50.00 * 12   USD (Note)
+         100.00 * 7    USD (Note)
+      $ 1685.00 TOTAL USD
+1035322 04/06/2020 08:16:46[200405 210002] BA-02146 "Jane Doe" |SCO| "#33 - BNR SCO" *RG61240-01* VaultDrop [See #1035323] 
+       DeltasNotExpected : 
+         140.00 * 1    USD (Cash)
+      $  140.00 TOTAL USD
+       BagID BG 1137219
+1035323 04/06/2020 08:16:47[200405 210002] BA-02146 "Jane Doe" |SCO| "#33 - BNR SCO" *RG61240-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:57
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 6047.00
+       QrTimestamp : 2020-04-06 05:32
+      $ 6047.00 TOTAL USD - IN
+1035324 04/06/2020 08:19:34[200405 210002] BA-02146 "Jane Doe" |SCO| "#35 - BNR SCO" *RG61242-01* (BNR) CashAccepted [See #1035327] 
+           5.00 * 27   USD (Note)
+          10.00 * 1    USD (Note)
+          20.00 * 23   USD (Note)
+          50.00 * 18   USD (Note)
+         100.00 * 24   USD (Note)
+      $ 3905.00 TOTAL USD
+1035325 04/06/2020 08:19:35[200405 210002] BA-02146 "Jane Doe" |SCO| "#35 - BNR SCO" *RG61242-01* (BNR 2) CashAccepted [See #1035327] 
+           1.00 * 16   USD (Note)
+           5.00 * 1    USD (Note)
+          20.00 * 24   USD (Note)
+         100.00 * 11   USD (Note)
+      $ 1601.00 TOTAL USD
+1035326 04/06/2020 08:19:45[200405 210002] BA-02146 "Jane Doe" |SCO| "#35 - BNR SCO" *RG61242-01* VaultDrop [See #1035327] 
+       DeltasNotExpected : 
+           5.00 * 1    USD (Cash)
+      $    5.00 TOTAL USD
+       BagID BG 090484
+1035327 04/06/2020 08:19:46[200405 210002] BA-02146 "Jane Doe" |SCO| "#35 - BNR SCO" *RG61242-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:51
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 5511.00
+       QrTimestamp : 2020-04-06 05:35
+      $ 5511.00 TOTAL USD - IN
+1035328 04/06/2020 08:22:42[200405 210002] BA-02146 "Jane Doe" |SCO| "#51 - BNR SCO" *RG61247-01* (BNR 2) CashAccepted [See #1035331] 
+           1.00 * 37   USD (Note)
+          20.00 * 28   USD (Note)
+         100.00 * 7    USD (Note)
+      $ 1297.00 TOTAL USD
+1035329 04/06/2020 08:22:43[200405 210002] BA-02146 "Jane Doe" |SCO| "#51 - BNR SCO" *RG61247-01* (BNR) CashAccepted [See #1035331] 
+           5.00 * 25   USD (Note)
+          20.00 * 30   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 3    USD (Note)
+      $ 1425.00 TOTAL USD
+1035330 04/06/2020 08:22:54[200405 210002] BA-02146 "Jane Doe" |SCO| "#51 - BNR SCO" *RG61247-01* VaultDrop [See #1035331] 
+       DeltasNotExpected : 
+           2.00 * 1    USD (Cash)
+      $    2.00 TOTAL USD
+       BagID BG 090552
+1035331 04/06/2020 08:22:55[200405 210002] BA-02146 "Jane Doe" |SCO| "#51 - BNR SCO" *RG61247-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:17
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 2724.00
+       QrTimestamp : 2020-04-06 05:54
+      $ 2724.00 TOTAL USD - IN
+1035332 04/06/2020 08:24:59[200405 210002] BA-02146 "Jane Doe" |SCO| "#49 - BNR SCO" *RG61182-01* (BNR) CashAccepted [See #1035335] 
+           5.00 * 25   USD (Note)
+          20.00 * 28   USD (Note)
+          50.00 * 7    USD (Note)
+         100.00 * 13   USD (Note)
+      $ 2335.00 TOTAL USD
+1035333 04/06/2020 08:25:00[200405 210002] BA-02146 "Jane Doe" |SCO| "#49 - BNR SCO" *RG61182-01* (BNR 2) CashAccepted [See #1035335] 
+           1.00 * 17   USD (Note)
+          20.00 * 29   USD (Note)
+         100.00 * 22   USD (Note)
+      $ 2797.00 TOTAL USD
+1035334 04/06/2020 08:25:14[200405 210002] BA-02146 "Jane Doe" |SCO| "#49 - BNR SCO" *RG61182-01* VaultDrop [See #1035335] 
+       DeltasNotExpected : 
+          65.00 * 1    USD (Cash)
+      $   65.00 TOTAL USD
+       BagID BG 090594
+1035335 04/06/2020 08:25:15[200405 210002] BA-02146 "Jane Doe" |SCO| "#49 - BNR SCO" *RG61182-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:12
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 5197.00
+       QrTimestamp : 2020-04-06 05:50
+      $ 5197.00 TOTAL USD - IN
+1035336 04/06/2020 08:27:35[200405 210002] BA-02146 "Jane Doe" |SCO| "#48 - BNR SCO" *RG61168-01* (BNR) CashAccepted [See #1035339] 
+           5.00 * 32   USD (Note)
+          20.00 * 31   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 26   USD (Note)
+      $ 3780.00 TOTAL USD
+1035337 04/06/2020 08:27:37[200405 210002] BA-02146 "Jane Doe" |SCO| "#48 - BNR SCO" *RG61168-01* (BNR 2) CashAccepted [See #1035339] 
+           1.00 * 46   USD (Note)
+          20.00 * 27   USD (Note)
+         100.00 * 15   USD (Note)
+      $ 2086.00 TOTAL USD
+1035338 04/06/2020 08:27:46[200405 210002] BA-02146 "Jane Doe" |SCO| "#48 - BNR SCO" *RG61168-01* VaultDrop [See #1035339] 
+       DeltasNotExpected : 
+          40.00 * 1    USD (Cash)
+      $   40.00 TOTAL USD
+       BagID BG 090547
+1035339 04/06/2020 08:27:48[200405 210002] BA-02146 "Jane Doe" |SCO| "#48 - BNR SCO" *RG61168-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:02:17
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 5906.00
+       QrTimestamp : 2020-04-06 05:50
+      $ 5906.00 TOTAL USD - IN
+1035340 04/06/2020 08:29:17[200405 210002] BA-02146 "Jane Doe" |SCO| "#43 - BNR SCO" *RG61109-01* (BNR) CashAccepted [See #1035341] 
+           5.00 * 15   USD (Note)
+          20.00 * 13   USD (Note)
+          50.00 * 19   USD (Note)
+         100.00 * 24   USD (Note)
+      $ 3685.00 TOTAL USD
+1035341 04/06/2020 08:29:19[200405 210002] BA-02146 "Jane Doe" |SCO| "#43 - BNR SCO" *RG61109-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:22
+       ScoLongShort : $    0.00
+       QrTotalAmount : $ 6947.00
+       QrTimestamp : 2020-04-06 05:43
+      $ 6947.00 TOTAL USD - IN
+1035342 04/06/2020 08:29:21[200405 210002] BA-02146 "Jane Doe" |SCO| "#43 - BNR SCO" *RG61109-01* (BNR 2) CashAccepted [See #1035341] 
+           1.00 * 2    USD (Note)
+          20.00 * 33   USD (Note)
+         100.00 * 26   USD (Note)
+      $ 3262.00 TOTAL USD
+1035343 04/06/2020 08:30:38[200405 210002] BA-02146 "Jane Doe" (BNR) [See #1035347] BNR DeviceError
+	Detail:[000F0016]Cassette is full
+	Location:eModule_Cassette2
+	General:Full cassette(s)
+	Notes in cassette:3063
+1035344 04/06/2020 08:30:49[200405 210002] BA-02146 "Jane Doe" |SCO| "#37 - BNR SCO" *RG61244-01* (BNR 2) CashAccepted [See #1035347] 
+           1.00 * 21   USD (Note)
+      $   21.00 TOTAL USD
+1035345 04/06/2020 08:30:50[200405 210002] BA-02146 "Jane Doe" |SCO| "#37 - BNR SCO" *RG61244-01* (BNR) CashAccepted [See #1035347] 
+           5.00 * 4    USD (Note)
+          20.00 * 33   USD (Note)
+          50.00 * 8    USD (Note)
+         100.00 * 26   USD (Note)
+      $ 3680.00 TOTAL USD
+1035346 04/06/2020 08:31:04[200405 210002] BA-02146 "Jane Doe" |SCO| "#37 - BNR SCO" *RG61244-01* VaultDrop [See #1035347] 
+       DeltasNotExpected : 
+         120.00 * 1    USD (Cash)
+      $  120.00 TOTAL USD
+       BagID BG 090561
+1035347 04/06/2020 08:31:05[200405 210002] BA-02146 "Jane Doe" |SCO| "#37 - BNR SCO" *RG61244-01* CashPickup [See #1035242] 
+       ElapsedTime : 00:01:43
+       ScoLongShort : $-2681.00
+       QrTotalAmount : $ 1140.00
+       QrTimestamp : 2020-04-06 05:41
+      $ 3821.00 TOTAL USD - IN
+1035348 04/06/2020 08:31:48[200405 210002] BA-02146 "Jane Doe" |Pharmacy| "#80 - RX" *TL128* TillCheckout 
+       ElapsedTime : 00:00:25
+      $  363.25 TOTAL USD - OUT
+1035349 04/06/2020 08:31:51[200405 210002] BA-02146 "Jane Doe" Door Till Door Closed 
+1035350 04/06/2020 08:31:52[200405 210002] BA-02146 "Jane Doe" Door Till Drawer Opened 
+1035351 04/06/2020 08:32:17[200405 210002] BA-02146 "Jane Doe" |Pharmacy| "#80 - RX" *TL128* (BNR) CashDispensed [See #1035348] 
+           5.00 * 24   USD (Note)
+      $  120.00 TOTAL USD
+1035352 04/06/2020 08:32:21[200405 210002] BA-02146 "Jane Doe" |Pharmacy| "#80 - RX" *TL128* (BNR 2) CashDispensed [See #1035348] 
+           1.00 * 42   USD (Note)
+          20.00 * 9    USD (Note)
+      $  222.00 TOTAL USD
+1035353 04/06/2020 08:32:22[200405 210002] BA-02146 "Jane Doe" |Pharmacy| "#80 - RX" *TL128* (BCR) CashDispensed [See #1035348] 
+           0.01 * 100  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 50   USD (Coin)
+           0.25 * 53   USD (Coin)
+      $   21.25 TOTAL USD
+1035354 04/06/2020 08:32:49[200405 210002] BA-02146 "Jane Doe" Door Till Door Opened 
+1035355 04/06/2020 08:32:51[200405 210002] BA-02146 "Jane Doe" Door Till Drawer Closed 
+1035356 04/06/2020 08:33:24[200405 210002] BA-02146 "Jane Doe" |Pharmacy| "#81 - RX" *TL114* TillCheckout 
+       ElapsedTime : 00:00:13
+      $  330.00 TOTAL USD - OUT
+1035357 04/06/2020 08:33:28[200405 210002] BA-02146 "Jane Doe" Door Till Door Closed 
+1035358 04/06/2020 08:33:30[200405 210002] BA-02146 "Jane Doe" Door Till Drawer Opened 
+1035359 04/06/2020 08:33:59[200405 210002] BA-02146 "Jane Doe" |Pharmacy| "#81 - RX" *TL114* (BCR) CashDispensed [See #1035356] 
+           0.01 * 100  USD (Coin)
+           0.05 * 40   USD (Coin)
+           0.10 * 50   USD (Coin)
+           0.25 * 64   USD (Coin)
+      $   24.00 TOTAL USD
+1035360 04/06/2020 08:34:07[200405 210002] BA-02146 "Jane Doe" Door Till Door Opened 
+1035361 04/06/2020 08:34:08[200405 210002] BA-02146 "Jane Doe" Door Till Drawer Closed 
+1035362 04/06/2020 08:34:11[200405 210002] BA-02146 "Jane Doe" |Pharmacy| "#81 - RX" *TL114* (BNR) CashDispensed [See #1035356] 
+           5.00 * 28   USD (Note)
+      $  140.00 TOTAL USD
+1035363 04/06/2020 08:34:13[200405 210002] BA-02146 "Jane Doe" |Pharmacy| "#81 - RX" *TL114* (BNR 2) CashDispensed [See #1035356] 
+           1.00 * 46   USD (Note)
+          20.00 * 6    USD (Note)
+      $  166.00 TOTAL USD
+1035364 04/06/2020 08:36:26[200405 210002] BA-02146 "Jane Doe" Door DropVault OpenRequest 
+1035365 04/06/2020 08:36:36[200405 210002] BA-02146 "Jane Doe" Door DropVault Opened 
+1035366 04/06/2020 08:36:42[200405 210002] BA-02146 "Jane Doe" Door DropVault Closed 
+1035367 04/06/2020 08:36:44[200405 210002] BA-02146 "Jane Doe" EmptyDropVault 
+       ElapsedTime : 00:00:18
+           0.25 * 1    USD (Coin)
+           1.00 * 16   USD (Note)
+         100.00 * 4    USD (Note)
+           1.00 * 3    USD (Cash)
+           2.00 * 2    USD (Cash)
+           5.00 * 1    USD (Cash)
+          11.00 * 1    USD (Cash)
+          20.00 * 2    USD (Cash)
+          30.00 * 1    USD (Cash)
+          40.00 * 2    USD (Cash)
+          65.00 * 1    USD (Cash)
+         100.00 * 1    USD (Cash)
+         120.00 * 1    USD (Cash)
+         140.00 * 1    USD (Cash)
+      $ 1014.25 TOTAL USD
+1035368 04/06/2020 08:36:46[200405 210002] BA-02146 "Jane Doe" CourierTrayAdd 
+       ElapsedTime : 00:00:20
+           0.25 * 1    USD (Coin)
+           1.00 * 16   USD (Note)
+         100.00 * 4    USD (Note)
+           1.00 * 3    USD (Cash)
+           2.00 * 2    USD (Cash)
+           5.00 * 1    USD (Cash)
+          11.00 * 1    USD (Cash)
+          20.00 * 2    USD (Cash)
+          30.00 * 1    USD (Cash)
+          40.00 * 2    USD (Cash)
+          65.00 * 1    USD (Cash)
+         100.00 * 1    USD (Cash)
+         120.00 * 1    USD (Cash)
+         140.00 * 1    USD (Cash)
+      $ 1014.25 TOTAL USD BagID TX1035367
+1035369 04/06/2020 08:37:11[200405 210002] BA-02146 "Jane Doe" (BNR) CashMoved 
+       DepositPrepStatus : OK
+1035370 04/06/2020 08:38:57[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashMoved 
+       DepositPrepStatus : MediaRemaining
+         100.00 * 533  USD (Note)
+      $53300.00 TOTAL USD
+1035371 04/06/2020 08:38:59[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[0000E302]Note doesn't clear CR2S/CL2S sensor
+	Location:eModule_Cassette2Transport
+	General:Notes remaining on transport
+1035372 04/06/2020 08:39:05[200405 210002] BA-02146 "Jane Doe" DepositPrepared 
+1035373 04/06/2020 08:39:24[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035374 04/06/2020 08:39:34[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035375 04/06/2020 08:39:35[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035376 04/06/2020 08:42:36[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CapturedArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035377 04/06/2020 08:42:37[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CounterfeitArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035378 04/06/2020 08:42:46[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CapturedArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035379 04/06/2020 08:42:48[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CounterfeitArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035380 04/06/2020 08:44:33[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035381 04/06/2020 08:44:34[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Locked 
+1035382 04/06/2020 08:44:36[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashDispensed [See #1035383] 
+         100.00 * 5    USD (Note)
+      $  500.00 TOTAL USD
+1035383 04/06/2020 08:44:38[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+      $  500.00 TOTAL USD - OUT
+1035384 04/06/2020 08:45:41[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors 
+1035385 04/06/2020 08:45:44[200405 210002] BA-02146 "Jane Doe" Annotation 
+ BNR2 Transport notes removed by Reset:
+      1 x $  100.00 = $  100.00             Total: $  100.00
+1035386 04/06/2020 08:45:51[200405 210002] BA-02146 "Jane Doe" Annotation 
+ User removed Reject cassette, but did not empty it
+1035387 04/06/2020 08:45:53[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 638  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101554.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035388 04/06/2020 08:46:12[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 638  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101554.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035389 04/06/2020 08:46:46[200405 210002] BA-02146 "Jane Doe" VaultDrop 
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD BagID BG 1137220
+1035390 04/06/2020 08:46:49[200405 210002] BA-02146 "Jane Doe" ServiceCashOut 
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD
+1035391 04/06/2020 08:46:54[200405 210002] BA-02146 "Jane Doe" Logout 
+1035392 04/06/2020 08:47:05[200405 210002] BA-02146 "Jane Doe" Logon 
+1035393 04/06/2020 08:47:13[200405 210002] BA-02146 "Jane Doe" Door BnrVault OpenRequest 
+1035394 04/06/2020 08:47:20[200405 210002] BA-02146 "Jane Doe" Door BnrVault Unlocked 
+1035395 04/06/2020 08:47:22[200405 210002] BA-02146 "Jane Doe" Door Bnr Vault Combo Unlocked 
+1035396 04/06/2020 08:47:29[200405 210002] BA-02146 "Jane Doe" Door BnrVault Opened 
+1035397 04/06/2020 08:48:54[200405 210002] BA-02146 (BNR) BNR DeviceError
+	Detail:[0000A000]Mechanical error at cassette-3
+	Location:eModule_Cassette4
+	General:Cassette Missing
+	Notes in cassette:1132
+1035398 04/06/2020 08:49:27[200405 210002] BA-02146 "Jane Doe" Logout 
+1035399 04/06/2020 08:57:07[200405 210002] BA-02146 (BNR) BNR DeviceError
+	Detail:[000F10A0]Cassette 4 inserted
+	Location:eModule_Cassette4
+	General:Cassette Inserted
+	Notes in cassette:1132
+1035400 04/06/2020 08:57:15[200405 210002] BA-02146 Door BnrVault Closed 
+1035401 04/06/2020 08:57:17[200405 210002] BA-02146 Door Bnr Vault Combo Locked 
+1035402 04/06/2020 08:57:19[200405 210002] BA-02146 "Jane Doe" Logon 
+1035403 04/06/2020 08:57:24[200405 210002] BA-02146 "Jane Doe" (BNR) CassetteSecurity 
+       Cassette : Cassette 4
+       Content : 1132x100USDn 
+       Action: Removed
+       Authorized: False
+1035404 04/06/2020 08:57:26[200405 210002] BA-02146 "Jane Doe" (BNR) CassetteSecurity 
+       Cassette : Cassette 4
+       Action: Replaced
+       Authorized: False
+1035405 04/06/2020 08:57:36[200405 210002] BA-02146 "Jane Doe" (BNR) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+          20.00 * 3063 USD (Note)
+           5.00 * 622  USD (Note)
+           1.00 * 1132 USD (Note)
+      $65502.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 1223 USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 70   USD (Note)
+          10.00 * 96   USD (Note)
+          20.00 * 50   USD (Note)
+          50.00 * 300  USD (Note)
+         100.00 * 537  USD (Note)
+      $72233.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 4    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 4    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 2    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $   64.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035406 04/06/2020 08:57:47[200405 210002] BA-02146 "Jane Doe" (BNR) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+          20.00 * 3063 USD (Note)
+           5.00 * 622  USD (Note)
+           1.00 * 1132 USD (Note)
+      $65502.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 1223 USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 70   USD (Note)
+          10.00 * 96   USD (Note)
+          20.00 * 50   USD (Note)
+          50.00 * 300  USD (Note)
+         100.00 * 537  USD (Note)
+      $72233.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 4    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 4    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 2    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $   64.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035407 04/06/2020 08:58:29[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashMoved 
+       DepositPrepStatus : MediaRemaining
+1035408 04/06/2020 08:58:31[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[0000E302]Note doesn't clear CR2S/CL2S sensor
+	Location:eModule_Cassette2Transport
+	General:Notes remaining on transport
+1035409 04/06/2020 09:01:07[200405 210002] BA-02146 "Jane Doe" (BNR) BNR DeviceError
+	Detail:[000F1099]Deposit cassette is full
+	Location:eModule_Cassette1
+	General:Full cassette(s)
+	Notes in cassette:3114
+1035410 04/06/2020 09:01:08[200405 210002] BA-02146 "Jane Doe" (BNR) CashMoved 
+       DepositPrepStatus : Full
+          20.00 * 838  USD (Note)
+      $16760.00 TOTAL USD
+1035411 04/06/2020 09:01:10[200405 210002] BA-02146 "Jane Doe" (BNR) BNR DeviceError
+	Detail:[000F0016]Cassette is full
+	Location:eModule_Cassette1
+	General:Full cassette(s)
+1035412 04/06/2020 09:01:23[200405 210002] BA-02146 "Jane Doe" DepositPrepared 
+1035413 04/06/2020 09:01:36[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035414 04/06/2020 09:01:45[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035415 04/06/2020 09:01:46[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035416 04/06/2020 09:07:12[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CapturedArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035417 04/06/2020 09:07:14[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CounterfeitArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035418 04/06/2020 09:07:41[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CapturedArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035419 04/06/2020 09:07:42[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CounterfeitArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035420 04/06/2020 09:07:50[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035421 04/06/2020 09:07:51[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Locked 
+1035422 04/06/2020 09:08:20[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashDispensed [See #1035423] 
+         100.00 * 2    USD (Note)
+      $  200.00 TOTAL USD
+1035423 04/06/2020 09:08:22[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+      $  200.00 TOTAL USD - OUT
+1035424 04/06/2020 09:09:28[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors 
+1035425 04/06/2020 09:09:37[200405 210002] BA-02146 "Jane Doe" Annotation 
+ User removed Reject cassette, but did not empty it
+1035426 04/06/2020 09:09:38[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 636  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101354.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035427 04/06/2020 09:09:57[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 636  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101354.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035428 04/06/2020 09:10:42[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashAccepted [See #1035429] 
+         100.00 * 3    USD (Note)
+      $  300.00 TOTAL USD
+1035429 04/06/2020 09:10:43[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+       ElapsedTime : 00:09:09
+      $  300.00 TOTAL USD - IN
+1035430 04/06/2020 09:10:49[200405 210002] BA-02146 "Jane Doe" TransportReconciliation 
+  Media  Denom  Expected    Actual
+   Note  10000         2         3
+1035431 04/06/2020 09:10:51[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 639  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101654.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035432 04/06/2020 09:11:09[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 638  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101554.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035433 04/06/2020 09:11:25[200405 210002] BA-02146 "Jane Doe" Door BnrVault OpenRequest 
+1035434 04/06/2020 09:11:34[200405 210002] BA-02146 "Jane Doe" Door BnrVault Opened 
+1035435 04/06/2020 09:11:35[200405 210002] BA-02146 "Jane Doe" Door Bnr Vault Combo Unlocked 
+1035436 04/06/2020 09:12:02[200405 210002] BA-02146 "Jane Doe" (BNR) BNR DeviceError
+	Detail:[000F0066]Reject cassette missing
+	Location:eModule_CapturedArea
+	General:Cassette Missing
+1035437 04/06/2020 09:12:03[200405 210002] BA-02146 "Jane Doe" (BNR) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CapturedArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035438 04/06/2020 09:12:05[200405 210002] BA-02146 "Jane Doe" (BNR) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CounterfeitArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035439 04/06/2020 09:12:13[200405 210002] BA-02146 "Jane Doe" (BNR) BNR DeviceError
+	Detail:[000F0014]Cassette has been manually altered
+	Location:eModule_CapturedArea
+	General:Cassettes manipulated. Do Note Exchange.
+1035440 04/06/2020 09:12:14[200405 210002] BA-02146 "Jane Doe" (BNR) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CapturedArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035441 04/06/2020 09:12:16[200405 210002] BA-02146 "Jane Doe" (BNR) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CounterfeitArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035442 04/06/2020 09:12:27[200405 210002] BA-02146 "Jane Doe" Door BnrVault Closed 
+1035443 04/06/2020 09:12:28[200405 210002] BA-02146 "Jane Doe" Door Bnr Vault Combo Locked 
+1035444 04/06/2020 09:12:30[200405 210002] BA-02146 "Jane Doe" (BNR) CassetteSecurity 
+       Cassette : Cassette 7
+       Content : Empty
+       Action: Removed
+       Authorized: False
+1035445 04/06/2020 09:12:32[200405 210002] BA-02146 "Jane Doe" (BNR) CassetteSecurity 
+       Cassette : Cassette 7
+       Action: Replaced
+       Authorized: False
+1035446 04/06/2020 09:13:13[200405 210002] BA-02146 "Jane Doe" (BNR) Clear BNR errors 
+1035447 04/06/2020 09:13:14[200405 210002] BA-02146 "Jane Doe" (BNR) CassetteSecurity 
+       Cassette : Reject
+       Content : 4x100USDn 4x500USDn 3x2000USDn 
+       Action: Removed
+       Authorized: True
+1035448 04/06/2020 09:13:16[200405 210002] BA-02146 "Jane Doe" (BNR) CassetteSecurity 
+       Cassette : Reject
+       Action: Replaced
+       Authorized: True
+1035449 04/06/2020 09:13:18[200405 210002] BA-02146 "Jane Doe" (BNR) CassetteSecurity 
+       Cassette : Cassette 5
+       Content : Empty
+       Action: Removed
+       Authorized: False
+1035450 04/06/2020 09:13:19[200405 210002] BA-02146 "Jane Doe" (BNR) CassetteSecurity 
+       Cassette : Cassette 5
+       Action: Replaced
+       Authorized: False
+1035451 04/06/2020 09:13:21[200405 210002] BA-02146 "Jane Doe" (BNR) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+          20.00 * 2224 USD (Note)
+           5.00 * 622  USD (Note)
+           1.00 * 1132 USD (Note)
+      $48722.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 1223 USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 70   USD (Note)
+          10.00 * 96   USD (Note)
+          20.00 * 888  USD (Note)
+          50.00 * 300  USD (Note)
+         100.00 * 537  USD (Note)
+      $88993.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 4    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 4    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 3    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $   84.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035452 04/06/2020 09:13:36[200405 210002] BA-02146 "Jane Doe" (BNR) NoteExchange 
+       Reason : Empty Reject
+    *** Post-exchange ***
+    Recycler Cassettes:      
+          20.00 * 2224 USD (Note)
+           5.00 * 622  USD (Note)
+           1.00 * 1132 USD (Note)
+      $48722.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 1223 USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 70   USD (Note)
+          10.00 * 96   USD (Note)
+          20.00 * 888  USD (Note)
+          50.00 * 300  USD (Note)
+         100.00 * 537  USD (Note)
+      $88993.00 TOTAL USD
+    Reject Bin:
+      Empty
+    Capture Bin:
+      Empty
+    Counterfeit Bin:
+      Empty
+1035453 04/06/2020 09:13:59[200405 210002] BA-02146 "Jane Doe" VaultDrop 
+           1.00 * 4    USD (Note)
+           5.00 * 4    USD (Note)
+          20.00 * 3    USD (Note)
+      $   84.00 TOTAL USD BagID BG 090523
+1035454 04/06/2020 09:14:01[200405 210002] BA-02146 "Jane Doe" RejectReconciliation 
+  Media  Denom  Expected    Actual
+   Note    100         4         4
+   Note    500         4         4
+   Note   2000         3         3
+1035455 04/06/2020 09:14:10[200405 210002] BA-02146 "Jane Doe" ServiceCashOut 
+           1.00 * 4    USD (Note)
+           5.00 * 4    USD (Note)
+          20.00 * 3    USD (Note)
+      $   84.00 TOTAL USD
+1035456 04/06/2020 09:14:13[200405 210002] BA-02146 "Jane Doe" Logout 
+1035457 04/06/2020 09:14:26[200405 210002] BA-02146 "Jane Doe" Logon 
+1035458 04/06/2020 09:14:43[200405 210002] BA-02146 "Jane Doe" (BNR) CashMoved 
+       DepositPrepStatus : OK
+1035459 04/06/2020 09:14:57[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashMoved 
+       DepositPrepStatus : MediaRemaining
+1035460 04/06/2020 09:14:58[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[0000E302]Note doesn't clear CR2S/CL2S sensor
+	Location:eModule_Cassette2Transport
+	General:Notes remaining on transport
+1035461 04/06/2020 09:15:06[200405 210002] BA-02146 "Jane Doe" DepositPrepared 
+1035462 04/06/2020 09:15:37[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035463 04/06/2020 09:15:45[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Unlocked 
+1035464 04/06/2020 09:15:52[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035465 04/06/2020 09:15:53[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035466 04/06/2020 09:21:54[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CapturedArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035467 04/06/2020 09:21:55[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CounterfeitArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035468 04/06/2020 09:22:13[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CapturedArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035469 04/06/2020 09:22:14[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CounterfeitArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035470 04/06/2020 09:22:24[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashDispensed [See #1035471] 
+         100.00 * 5    USD (Note)
+      $  500.00 TOTAL USD
+1035471 04/06/2020 09:22:25[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+      $  500.00 TOTAL USD - OUT
+1035472 04/06/2020 09:22:27[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035473 04/06/2020 09:22:29[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Locked 
+1035474 04/06/2020 09:23:35[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors  Media Presented
+1035475 04/06/2020 09:23:45[200405 210002] BA-02146 "Jane Doe" Annotation 
+ User removed Reject cassette, but did not empty it
+1035476 04/06/2020 09:23:47[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 633  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101054.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035477 04/06/2020 09:24:05[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 633  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101054.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035478 04/06/2020 09:24:20[200405 210002] BA-02146 "Jane Doe" Annotation 
+ Coin detected in BNR2 during cash acceptance
+1035479 04/06/2020 09:24:43[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashAccepted [See #1035480] 
+         100.00 * 6    USD (Note)
+      $  600.00 TOTAL USD
+1035480 04/06/2020 09:24:46[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+       ElapsedTime : 00:09:12
+      $  600.00 TOTAL USD - IN
+1035481 04/06/2020 09:24:52[200405 210002] BA-02146 "Jane Doe" TransportReconciliation 
+  Media  Denom  Expected    Actual
+   Note  10000         5         6
+1035482 04/06/2020 09:24:53[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 639  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101654.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035483 04/06/2020 09:25:11[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 638  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101554.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 601  USD (Note)
+      $72430.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035484 04/06/2020 09:25:23[200405 210002] BA-02146 "Jane Doe" (BNR) CashMoved 
+       DepositPrepStatus : OK
+1035485 04/06/2020 09:25:37[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashMoved 
+       DepositPrepStatus : MediaRemaining
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD
+1035486 04/06/2020 09:25:38[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[0000E302]Note doesn't clear CR2S/CL2S sensor
+	Location:eModule_Cassette2Transport
+	General:Notes remaining on transport
+1035487 04/06/2020 09:25:41[200405 210002] BA-02146 "Jane Doe" DepositPrepared 
+1035488 04/06/2020 09:25:55[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035489 04/06/2020 09:26:02[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035490 04/06/2020 09:26:03[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035491 04/06/2020 09:28:28[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashDispensed [See #1035492] 
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD
+1035492 04/06/2020 09:28:29[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+      $  400.00 TOTAL USD - OUT
+1035493 04/06/2020 09:28:31[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035494 04/06/2020 09:28:33[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Locked 
+1035495 04/06/2020 09:29:41[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors  Media Presented
+1035496 04/06/2020 09:30:42[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashAccepted [See #1035497] 
+         100.00 * 5    USD (Note)
+      $  500.00 TOTAL USD
+1035497 04/06/2020 09:30:43[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+       ElapsedTime : 00:04:51
+      $  500.00 TOTAL USD - IN
+1035498 04/06/2020 09:30:48[200405 210002] BA-02146 "Jane Doe" TransportReconciliation 
+  Media  Denom  Expected    Actual
+   Note  10000         4         5
+1035499 04/06/2020 09:30:50[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 635  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101254.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 605  USD (Note)
+      $72830.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035500 04/06/2020 09:31:08[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 634  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $101154.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 605  USD (Note)
+      $72830.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035501 04/06/2020 09:31:27[200405 210002] BA-02146 "Jane Doe" (BNR) CashMoved 
+       DepositPrepStatus : OK
+1035502 04/06/2020 09:31:41[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashMoved 
+       DepositPrepStatus : MediaRemaining
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD
+1035503 04/06/2020 09:31:42[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[0000E110]Unexpected note or fragment at BVIN sensor. 
+	Location:eModule_BV
+	General:Notes remaining on transport
+1035504 04/06/2020 09:31:51[200405 210002] BA-02146 "Jane Doe" DepositPrepared 
+1035505 04/06/2020 09:32:13[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035506 04/06/2020 09:32:21[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035507 04/06/2020 09:32:22[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035508 04/06/2020 09:33:14[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CapturedArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035509 04/06/2020 09:33:16[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CounterfeitArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035510 04/06/2020 09:34:15[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035511 04/06/2020 09:34:16[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Locked 
+1035512 04/06/2020 09:34:21[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashDispensed [See #1035513] 
+         100.00 * 5    USD (Note)
+      $  500.00 TOTAL USD
+1035513 04/06/2020 09:34:23[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+      $  500.00 TOTAL USD - OUT
+1035514 04/06/2020 09:34:25[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035515 04/06/2020 09:34:30[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors 
+1035516 04/06/2020 09:34:31[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[00004009]Access point 9 is open.
+	Location:eModule_TransportBeforeBV
+	General:Device is Open
+1035517 04/06/2020 09:34:36[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035518 04/06/2020 09:34:42[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035519 04/06/2020 09:35:14[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035520 04/06/2020 09:35:15[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CapturedArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035521 04/06/2020 09:35:17[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CounterfeitArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035522 04/06/2020 09:35:20[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Locked 
+1035523 04/06/2020 09:35:21[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Locked 
+1035524 04/06/2020 09:36:11[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors 
+1035525 04/06/2020 09:36:17[200405 210002] BA-02146 "Jane Doe" Annotation 
+ User removed Reject cassette, but did not empty it
+1035526 04/06/2020 09:36:19[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 625  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $100254.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 609  USD (Note)
+      $73230.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035527 04/06/2020 09:36:37[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 625  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $100254.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 609  USD (Note)
+      $73230.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035528 04/06/2020 09:37:05[200405 210002] BA-02146 "Jane Doe" VaultDrop 
+         100.00 * 6    USD (Note)
+      $  600.00 TOTAL USD BagID BG 090528
+1035529 04/06/2020 09:37:08[200405 210002] BA-02146 "Jane Doe" TransportReconciliation 
+  Media  Denom  Expected    Actual
+   Note  10000         5         6
+1035530 04/06/2020 09:37:10[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 625  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $100254.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 609  USD (Note)
+      $73230.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035531 04/06/2020 09:37:28[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 624  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+     $100154.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 609  USD (Note)
+      $73230.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035532 04/06/2020 09:37:31[200405 210002] BA-02146 "Jane Doe" ServiceCashOut 
+         100.00 * 6    USD (Note)
+      $  600.00 TOTAL USD
+1035533 04/06/2020 09:37:42[200405 210002] BA-02146 "Jane Doe" (BNR) CashMoved 
+       DepositPrepStatus : OK
+1035534 04/06/2020 09:38:25[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashMoved 
+       DepositPrepStatus : MediaRemaining
+         100.00 * 190  USD (Note)
+      $19000.00 TOTAL USD
+1035535 04/06/2020 09:38:26[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[0000E302]Note doesn't clear CR2S/CL2S sensor
+	Location:eModule_Cassette2Transport
+	General:Notes remaining on transport
+1035536 04/06/2020 09:38:29[200405 210002] BA-02146 "Jane Doe" DepositPrepared 
+1035537 04/06/2020 09:39:09[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault OpenRequest 
+1035538 04/06/2020 09:39:19[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Opened 
+1035539 04/06/2020 09:39:20[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Combo Unlocked 
+1035540 04/06/2020 09:40:32[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CapturedArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035541 04/06/2020 09:40:33[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F109B]Reject cassette is missing
+	Location:eModule_CounterfeitArea
+	General:Cassette Missing
+	Notes in cassette:0
+1035542 04/06/2020 09:40:43[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CapturedArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035543 04/06/2020 09:40:44[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F10A1]Reject cassette inserted
+	Location:eModule_CounterfeitArea
+	General:Cassette Inserted
+	Notes in cassette:0
+1035544 04/06/2020 09:41:08[200405 210002] BA-02146 "Jane Doe" Door Bnr2 Vault Closed 
+1035545 04/06/2020 09:41:14[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashDispensed [See #1035546] 
+         100.00 * 5    USD (Note)
+      $  500.00 TOTAL USD
+1035546 04/06/2020 09:41:16[200405 210002] BA-02146 "Jane Doe" (BNR 2) ErrorRecovery 
+      $  500.00 TOTAL USD - OUT
+1035547 04/06/2020 09:42:24[200405 210002] BA-02146 "Jane Doe" (BNR 2) Clear BNR errors  Media Presented
+1035548 04/06/2020 09:42:27[200405 210002] BA-02146 "Jane Doe" Annotation 
+ BNR2 Transport notes removed by Reset:
+      1 x $  100.00 = $  100.00             Total: $  100.00
+1035549 04/06/2020 09:42:34[200405 210002] BA-02146 "Jane Doe" Annotation 
+ User removed Reject cassette, but did not empty it
+1035550 04/06/2020 09:42:35[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 429  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+      $80654.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 800  USD (Note)
+      $92330.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035551 04/06/2020 09:42:53[200405 210002] BA-02146 "Jane Doe" (BNR 2) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 429  USD (Note)
+          20.00 * 1853 USD (Note)
+           1.00 * 694  USD (Note)
+      $80654.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 32   USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 800  USD (Note)
+      $92330.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 1    USD (Note)
+      $  110.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035552 04/06/2020 09:43:20[200405 210002] BA-02146 "Jane Doe" VaultDrop 
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD BagID BG 1137254
+1035553 04/06/2020 09:43:23[200405 210002] BA-02146 "Jane Doe" ServiceCashOut 
+         100.00 * 4    USD (Note)
+      $  400.00 TOTAL USD
+1035554 04/06/2020 09:44:42[200405 210002] BA-02146 "Jane Doe" (BNR) CashMoved 
+       DepositPrepStatus : OK
+1035555 04/06/2020 09:50:56[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F1099]Deposit cassette is full
+	Location:eModule_Cassette1
+	General:Full cassette(s)
+	Notes in cassette:2976
+1035556 04/06/2020 09:50:57[200405 210002] BA-02146 "Jane Doe" (BNR 2) CashMoved 
+       DepositPrepStatus : Full
+          20.00 * 1625 USD (Note)
+         100.00 * 179  USD (Note)
+      $50400.00 TOTAL USD
+1035557 04/06/2020 09:50:59[200405 210002] BA-02146 "Jane Doe" (BNR 2) BNR DeviceError
+	Detail:[000F0016]Cassette is full
+	Location:eModule_Cassette1
+	General:Full cassette(s)
+1035558 04/06/2020 09:51:05[200405 210002] BA-02146 "Jane Doe" DepositPrepared 
+1035559 04/06/2020 09:51:20[200405 210002] BA-02146 "Jane Doe" Door StorageVault OpenRequest 
+1035560 04/06/2020 09:51:26[200405 210002] BA-02146 "Jane Doe" Door StorageVault Opened 
+1035561 04/06/2020 09:51:35[200405 210002] BA-02146 "Jane Doe" Logout 
+1035562 04/06/2020 09:51:37[200405 210002] BA-02146 Door Bnr2 Vault Combo Locked 
+1035563 04/06/2020 09:51:39[200405 210002] BA-02146 Door StorageVault Closed 
+1035564 04/06/2020 09:56:24[200405 210002] BA-02146 "John Smith" Logon 
+1035565 04/06/2020 09:56:44[200405 210002] BA-02146 "John Smith" Audit 
+       ElapsedTime : 00:00:15
+  Audited: External Vault Fund
+  Media  Denom  Expected    Actual
+   Coin      1      9999     10000
+   Coin      5      2000      2000
+   Coin     10      5000      5000
+   Coin     25      6000      6000
+   Note    100      2000      2000
+   Note    500      2000      2000
+1035566 04/06/2020 09:56:46[200405 210002] BA-02146 "John Smith" ServiceCashIn [See #1035565]  EVF Audit
+           0.01 * 1    USD (Coin)
+      $    0.01 TOTAL USD
+1035567 04/06/2020 09:57:56[200405 210002] BA-02146 "John Smith" Logout 
+1035568 04/06/2020 10:00:45[200405 210002] BA-02146 "John Smith" Logon 
+1035569 04/06/2020 10:00:51[200405 210002] BA-02146 "John Smith" Door BnrVault OpenRequest 
+1035570 04/06/2020 10:00:58[200405 210002] BA-02146 "John Smith" Door BnrVault Unlocked 
+1035571 04/06/2020 10:00:59[200405 210002] BA-02146 "John Smith" Door Bnr Vault Combo Unlocked 
+1035572 04/06/2020 10:01:06[200405 210002] BA-02146 "John Smith" Door BnrVault Opened 
+1035573 04/06/2020 10:02:10[200405 210002] BA-02146 "John Smith" (BNR) BNR DeviceError
+	Detail:[0000C000]DES Error
+	Location:eModule_Cassette1
+	General:Cassette Missing
+	Notes in cassette:3114
+1035574 04/06/2020 10:06:43[200405 210002] BA-02146 "John Smith" (BNR) BNR DeviceError
+	Detail:[000F0014]Cassette has been manually altered
+	Location:eModule_Cassette1
+	General:Cassettes manipulated. Do Note Exchange.
+1035575 04/06/2020 10:06:44[200405 210002] BA-02146 "John Smith" (BNR) BNR DeviceError
+	Detail:[000F109C]Deposit cassette inserted
+	Location:eModule_Cassette1
+	General:Cassette Inserted
+	Notes in cassette:3114
+1035576 04/06/2020 10:06:47[200405 210002] BA-02146 "John Smith" (BNR) CourierPickup 
+       Cash360 Package # : 2020040601
+           1.00 * 1223 USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 70   USD (Note)
+          10.00 * 96   USD (Note)
+          20.00 * 888  USD (Note)
+          50.00 * 300  USD (Note)
+         100.00 * 537  USD (Note)
+      $88993.00 TOTAL USD
+1035577 04/06/2020 10:06:49[200405 210002] BA-02146 "John Smith" EmptyCourierTray 
+       Cash360 Package # : 2020040602
+       From Empty Drop Vault : TX1033776
+           1.00 * 10   USD (Note)
+          20.00 * 15   USD (Note)
+      $  310.00 TOTAL USD
+1035578 04/06/2020 10:06:50[200405 210002] BA-02146 "John Smith" EmptyCourierTray 
+       Cash360 Package # : 2020040603
+       From Empty Drop Vault : TX1034530
+           0.01 * 3    USD (Coin)
+           0.10 * 17   USD (Coin)
+           1.00 * 94   USD (Note)
+          10.00 * 1    USD (Cash)
+          20.00 * 1    USD (Cash)
+         140.00 * 1    USD (Cash)
+      $  265.73 TOTAL USD
+1035579 04/06/2020 10:06:52[200405 210002] BA-02146 "John Smith" EmptyCourierTray 
+       Cash360 Package # : 2020040604
+       From Empty Drop Vault : TX1035367
+           0.25 * 1    USD (Coin)
+           1.00 * 16   USD (Note)
+         100.00 * 4    USD (Note)
+           1.00 * 3    USD (Cash)
+           2.00 * 2    USD (Cash)
+           5.00 * 1    USD (Cash)
+          11.00 * 1    USD (Cash)
+          20.00 * 2    USD (Cash)
+          30.00 * 1    USD (Cash)
+          40.00 * 2    USD (Cash)
+          65.00 * 1    USD (Cash)
+         100.00 * 1    USD (Cash)
+         120.00 * 1    USD (Cash)
+         140.00 * 1    USD (Cash)
+      $ 1014.25 TOTAL USD
+1035580 04/06/2020 10:06:54[200405 210002] BA-02146 "John Smith" Door Bnr2 Vault OpenRequest 
+1035581 04/06/2020 10:06:57[200405 210002] BA-02146 "John Smith" Door Bnr Vault Combo Locked 
+1035582 04/06/2020 10:07:09[200405 210002] BA-02146 "John Smith" Door Bnr2 Vault Opened 
+1035583 04/06/2020 10:07:10[200405 210002] BA-02146 "John Smith" Door Bnr2 Vault Combo Unlocked 
+1035584 04/06/2020 10:09:33[200405 210002] BA-02146 "John Smith" (BNR 2) BNR DeviceError
+	Detail:[0000C000]DES Error
+	Location:eModule_Cassette1
+	General:Cassette Missing
+	Notes in cassette:2976
+1035585 04/06/2020 10:12:05[200405 210002] BA-02146 "John Smith" (BNR 2) BNR DeviceError
+	Detail:[000F0014]Cassette has been manually altered
+	Location:eModule_Cassette1
+	General:Cassettes manipulated. Do Note Exchange.
+1035586 04/06/2020 10:12:07[200405 210002] BA-02146 "John Smith" (BNR 2) BNR DeviceError
+	Detail:[000F109C]Deposit cassette inserted
+	Location:eModule_Cassette1
+	General:Cassette Inserted
+	Notes in cassette:2976
+1035587 04/06/2020 10:12:18[200405 210002] BA-02146 "John Smith" Door Bnr2 Vault Closed 
+1035588 04/06/2020 10:12:19[200405 210002] BA-02146 "John Smith" Door Bnr2 Vault Combo Locked 
+1035589 04/06/2020 10:12:21[200405 210002] BA-02146 "John Smith" (BNR 2) CourierPickup 
+       Cash360 Package # : 2020040605
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 1657 USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 979  USD (Note)
+     $142730.00 TOTAL USD
+1035590 04/06/2020 10:12:23[200405 210002] BA-02146 "John Smith" (BNR) DepositEmptied 
+       Courier did not remove deposit : False
+           1.00 * 1223 USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 70   USD (Note)
+          10.00 * 96   USD (Note)
+          20.00 * 888  USD (Note)
+          50.00 * 300  USD (Note)
+         100.00 * 537  USD (Note)
+      $88993.00 TOTAL USD
+1035591 04/06/2020 10:12:25[200405 210002] BA-02146 "John Smith" (BNR) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+          20.00 * 2224 USD (Note)
+           5.00 * 622  USD (Note)
+           1.00 * 1132 USD (Note)
+      $48722.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 1223 USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 70   USD (Note)
+          10.00 * 96   USD (Note)
+          20.00 * 888  USD (Note)
+          50.00 * 300  USD (Note)
+         100.00 * 537  USD (Note)
+      $88993.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035592 04/06/2020 10:12:36[200405 210002] BA-02146 (BNR) BNR DeviceError
+	Detail:[000F109C]Deposit cassette inserted
+	Location:eModule_Cassette1
+	General:Cassette Inserted
+	Notes in cassette:0
+1035593 04/06/2020 10:12:37[200405 210002] BA-02146 "John Smith" (BNR) BNR DeviceError
+	Detail:[000F109C]Deposit cassette inserted
+	Location:eModule_Cassette1
+	General:Cassette Inserted
+	Notes in cassette:0
+1035594 04/06/2020 10:12:39[200405 210002] BA-02146 "John Smith" (BNR) CassetteSecurity 
+       Cassette : Deposit 1
+       Content : 1223x100USDn 70x500USDn 96x1000USDn 888x2000USDn 300x5000USDn 537x10000USDn 
+       Action: Removed
+       Authorized: True
+1035595 04/06/2020 10:12:40[200405 210002] BA-02146 "John Smith" (BNR) CassetteSecurity 
+       Cassette : Deposit 1
+       Action: Replaced
+       Authorized: True
+1035596 04/06/2020 10:12:42[200405 210002] BA-02146 "John Smith" (BNR) BNR DeviceError
+	Detail:[000F109C]Deposit cassette inserted
+	Location:eModule_Cassette1
+	General:Cassette Inserted
+	Notes in cassette:0
+1035597 04/06/2020 10:12:44[200405 210002] BA-02146 "John Smith" (BNR) BNR DeviceError
+	Detail:[000F109C]Deposit cassette inserted
+	Location:eModule_Cassette1
+	General:Cassette Inserted
+	Notes in cassette:0
+1035598 04/06/2020 10:12:46[200405 210002] BA-02146 "John Smith" (BNR) BNR DeviceError
+	Detail:[000F109C]Deposit cassette inserted
+	Location:eModule_Cassette1
+	General:Cassette Inserted
+	Notes in cassette:0
+1035599 04/06/2020 10:13:25[200405 210002] BA-02146 "John Smith" (BNR) Clear BNR errors 
+1035600 04/06/2020 10:13:26[200405 210002] BA-02146 "John Smith" (BNR 2) DepositEmptied 
+       Courier did not remove deposit : False
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 1657 USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 979  USD (Note)
+     $142730.00 TOTAL USD
+1035601 04/06/2020 10:13:28[200405 210002] BA-02146 "John Smith" (BNR 2) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+         100.00 * 248  USD (Note)
+          20.00 * 227  USD (Note)
+           1.00 * 694  USD (Note)
+      $30034.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 48   USD (Note)
+           2.00 * 1    USD (Note)
+           5.00 * 54   USD (Note)
+          10.00 * 12   USD (Note)
+          20.00 * 1657 USD (Note)
+          50.00 * 225  USD (Note)
+         100.00 * 979  USD (Note)
+     $142730.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 1    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 3    USD (Note)
+      $  330.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035602 04/06/2020 10:13:45[200405 210002] BA-02146 (BNR 2) BNR DeviceError
+	Detail:[000F109C]Deposit cassette inserted
+	Location:eModule_Cassette1
+	General:Cassette Inserted
+	Notes in cassette:0
+1035603 04/06/2020 10:13:46[200405 210002] BA-02146 "John Smith" (BNR 2) NoteExchange 
+       Reason : unknown string
+    *** Post-exchange ***
+    Recycler Cassettes:      
+         100.00 * 248  USD (Note)
+          20.00 * 227  USD (Note)
+           1.00 * 694  USD (Note)
+      $30034.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 10   USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 1    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 3    USD (Note)
+      $  330.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035604 04/06/2020 10:13:49[200405 210002] BA-02146 "John Smith" (BNR 2) BNR DeviceError
+	Detail:[000F109C]Deposit cassette inserted
+	Location:eModule_Cassette1
+	General:Cassette Inserted
+	Notes in cassette:0
+1035605 04/06/2020 10:14:33[200405 210002] BA-02146 "John Smith" (BNR 2) Clear BNR errors 
+1035606 04/06/2020 10:14:38[200405 210002] BA-02146 "John Smith" Logout 
+1035607 04/06/2020 10:06:56[200405 210002] BA-02146 "John Smith" Door BnrVault Closed 
+1035608 04/06/2020 10:26:49[200405 210002] BA-02146 "John Smith" Logon 
+1035609 04/06/2020 10:31:04[200405 210002] BA-02146 "John Smith" Logout 
+1035610 04/06/2020 10:31:43[200405 210002] BA-02146 "John Smith" Logon 
+1035611 04/06/2020 10:33:54[200405 210002] BA-02146 "John Smith" Logout 
+1035612 04/06/2020 10:40:14[200405 210002] BA-02146 "John Smith" Logon 
+1035613 04/06/2020 10:40:19[200405 210002] BA-02146 "John Smith" Door BnrVault OpenRequest 
+1035614 04/06/2020 10:40:27[200405 210002] BA-02146 "John Smith" Door BnrVault Unlocked 
+1035615 04/06/2020 10:40:33[200405 210002] BA-02146 "John Smith" Door BnrVault Opened 
+1035616 04/06/2020 10:40:35[200405 210002] BA-02146 "John Smith" Door Bnr Vault Combo Unlocked 
+1035617 04/06/2020 10:41:16[200405 210002] BA-02146 (BNR) BNR DeviceError
+	Detail:[0000A000]Mechanical error at cassette-3
+	Location:eModule_Cassette4
+	General:Cassette Missing
+	Notes in cassette:1132
+1035618 04/06/2020 10:41:27[200405 210002] BA-02146 (BNR) BNR DeviceError
+	Detail:[0000D000]OK
+	Location:eModule_Cassette3
+	General:Cassette Missing
+	Notes in cassette:622
+1035619 04/06/2020 10:41:46[200405 210002] BA-02146 "John Smith" Logout 
+1035620 04/06/2020 10:42:47[200405 210002] BA-02146 (BNR) BNR DeviceError
+	Detail:[000F10A0]Cassette 4 inserted
+	Location:eModule_Cassette4
+	General:Cassette Inserted
+	Notes in cassette:1132
+1035621 04/06/2020 10:43:46[200405 210002] BA-02146 (BNR) BNR DeviceError
+	Detail:[000F109F]Cassette 3 inserted
+	Location:eModule_Cassette3
+	General:Cassette Inserted
+	Notes in cassette:622
+1035622 04/06/2020 10:44:43[200405 210002] BA-02146 Door BnrVault Closed 
+1035623 04/06/2020 10:44:45[200405 210002] BA-02146 Door Bnr Vault Combo Locked 
+1035624 04/06/2020 10:44:58[200405 210002] BA-02146 "John Smith" Logon 
+1035625 04/06/2020 10:45:18[200405 210002] BA-02146 "John Smith" (BNR) CassetteSecurity 
+       Cassette : Cassette 3
+       Content : 622x500USDn 
+       Action: Removed
+       Authorized: False
+1035626 04/06/2020 10:45:19[200405 210002] BA-02146 "John Smith" (BNR) CassetteSecurity 
+       Cassette : Cassette 3
+       Action: Replaced
+       Authorized: False
+1035627 04/06/2020 10:45:22[200405 210002] BA-02146 "John Smith" (BNR) CassetteSecurity 
+       Cassette : Cassette 4
+       Content : 1132x100USDn 
+       Action: Removed
+       Authorized: False
+1035628 04/06/2020 10:45:23[200405 210002] BA-02146 "John Smith" (BNR) CassetteSecurity 
+       Cassette : Cassette 4
+       Action: Replaced
+       Authorized: False
+1035629 04/06/2020 10:45:27[200405 210002] BA-02146 "John Smith" (BNR) NoteExchange 
+    *** Pre-exchange ***
+    Recycler Cassettes:      
+          20.00 * 2224 USD (Note)
+           5.00 * 622  USD (Note)
+           1.00 * 1132 USD (Note)
+      $48722.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035630 04/06/2020 10:45:39[200405 210002] BA-02146 "John Smith" (BNR) NoteExchange 
+       Reason : Troubleshoot Note Exchange
+    *** Post-exchange ***
+    Recycler Cassettes:      
+          20.00 * 2224 USD (Note)
+           5.00 * 622  USD (Note)
+           1.00 * 1132 USD (Note)
+      $48722.00 TOTAL USD
+    Deposit 1 Cassette:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Reject Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Capture Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+    Counterfeit Bin:      
+           1.00 * 0    USD (Note)
+           2.00 * 0    USD (Note)
+           5.00 * 0    USD (Note)
+          10.00 * 0    USD (Note)
+          20.00 * 0    USD (Note)
+          50.00 * 0    USD (Note)
+         100.00 * 0    USD (Note)
+      $    0.00 TOTAL USD
+1035631 04/06/2020 10:45:53[200405 210002] BA-02146 "John Smith" |Front End| "#01 - FRNT" *TL119* AdvanceCash 
+       ElapsedTime : 00:00:04
+      $    1.00 TOTAL USD - OUT
+1035632 04/06/2020 10:47:33[200405 210002] BA-02146 "John Smith" |Front End| "#01 - FRNT" *TL119* (BNR) CashDispensed [See #1035631] 
+           1.00 * 1    USD (Note)
+      $    1.00 TOTAL USD
+1035633 04/06/2020 10:47:35[200405 210002] BA-02146 "John Smith" (BNR) [See #1035631] BNR DeviceError
+	Detail:[000F0018]Cassette is inoperative
+	Location:eModule_Cassette4
+	General:Cassettes are inoperable
+1035634 04/06/2020 10:47:37[200405 210002] BA-02146 "John Smith" (BNR) [See #1035631] BNR DeviceError
+	Detail:[000F1093]Cassette 4 is inoperative
+	Location:eModule_Cassette4
+	General:Cassettes are inoperable
+	Notes in cassette:1131
+1035635 04/06/2020 10:48:29[200405 210002] BA-02146 "John Smith" |Front End| "#01 - FRNT" *TL119* AdvanceCash 
+       ElapsedTime : 00:00:07
+      $  100.00 TOTAL USD - OUT
+1035636 04/06/2020 10:48:53[200405 210002] BA-02146 "John Smith" |Front End| "#01 - FRNT" *TL119* (BNR) CashDispensed [See #1035635] 
+           5.00 * 20   USD (Note)
+      $  100.00 TOTAL USD
+1035637 04/06/2020 10:50:10[200405 210002] BA-02146 "John Smith" SessionStart 
+1035638 04/06/2020 10:51:29[200405 210002] BA-02146 "John Smith" |Front End| "#01 - FRNT" *TL119* (BNR 2) CashAccepted [See #1035639] 
+1035639 04/06/2020 10:51:31[200405 210002] BA-02146 "John Smith" |Front End| "#01 - FRNT" *TL119* CashPickup [See #1035637] 
+       ElapsedTime : 00:01:19
+      $  101.00 TOTAL USD - IN
+1035640 04/06/2020 10:51:33[200405 210002] BA-02146 "John Smith" |Front End| "#01 - FRNT" *TL119* (BNR) CashAccepted [See #1035639] 
+           1.00 * 1    USD (Note)
+           5.00 * 20   USD (Note)
+      $  101.00 TOTAL USD
+1035641 04/06/2020 10:51:36[200405 210002] BA-02146 "John Smith" Logout 
+1035642 04/06/2020 10:53:40[200405 210002] BA-02146 Annotation 
+ Issued Executive Override password
+1035643 04/06/2020 10:54:00[200405 210002] BA-02146 "Executive User" Logon 
+1035644 04/06/2020 10:54:27[200405 210002] BA-02146 "Executive User" Logout 
+1035645 04/06/2020 10:54:29[200405 210002] BA-02146 "Executive User" RebootRequest  UserRequested Exit Software
+1035646 04/06/2020 10:56:21[200405 210002] BA-02146 ProgramStart ((7.02.4.0))
+
+******************** End Of Transaction Report ********************
+
