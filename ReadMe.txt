@@ -10,5 +10,5 @@ Technologies used: HTML/CSS/Javascript, ChartJs, Bootstrap
 
 How to use:
 1. Download the sample transaction text file from this repo - "Transaction Report (sample).txt"
-2. Open the application: (link)
+2. Open the application: https://tr-parser.carsonbutler.dev
 3. Select Browse, find the downloaded text file, then select "Show Results"
